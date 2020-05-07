@@ -1,0 +1,165 @@
+{
+    "reflexives_mysen": {
+        "variants": [
+            "myself",
+            "mysen"
+        ],
+        "factors": {}
+    },
+    "burnt_burned": {
+        "variants": [
+            "burned",
+            "burnt"
+        ],
+        "factors": {}
+    },
+    "double_object_pronoun_pronoun": {
+        "variants": [
+            "prepositional_dative"
+        ],
+        "factors": {
+            "construction_type": [
+                "it+pronominal_object"
+            ],
+            "verb": [
+                "show",
+                "give",
+                "send",
+                "get",
+                "dm"
+            ],
+            "pronoun1": [
+                "me",
+                "them",
+                "us",
+                "you",
+                "him"
+            ],
+            "preposition": [
+                "to"
+            ],
+            "pronoun2": [
+                "you",
+                "them",
+                "me",
+                "her",
+                "ya"
+            ],
+            "post": [
+                "me",
+                "you",
+                "and",
+                "for",
+                "love"
+            ]
+        }
+    },
+    "double_object_it_pronoun": {
+        "variants": [
+            "goal_theme_ditransitive",
+            "prepositional_dative",
+            "theme_goal_ditransitive"
+        ],
+        "factors": {
+            "construction_type": [
+                "it+pronominal_object"
+            ],
+            "verb": [
+                "give",
+                "send",
+                "leave",
+                "get",
+                "dm"
+            ],
+            "theme": [
+                "it"
+            ],
+            "preposition": [
+                "to"
+            ],
+            "goal": [
+                "you",
+                "me",
+                "him",
+                "them",
+                "ya"
+            ],
+            "theme_type": [
+                "pronominal"
+            ],
+            "goal_type": [
+                "pronominal"
+            ]
+        }
+    },
+    "earnt_earned": {
+        "variants": [
+            "earned",
+            "earnt"
+        ],
+        "factors": {}
+    },
+    "double_object_it_nounphrase": {
+        "variants": [
+            "goal_theme_ditransitive",
+            "prepositional_dative",
+            "theme_goal_ditransitive"
+        ],
+        "factors": {
+            "construction_type": [
+                "it+nominal"
+            ],
+            "verb": [
+                "say",
+                "bringing",
+                "give",
+                "stick",
+                "sent"
+            ],
+            "pronoun": [
+                "it"
+            ],
+            "preposition": [
+                "to"
+            ],
+            "goal": [
+                "my face",
+                "the man",
+                "my attention",
+                "our attention",
+                "my mum"
+            ],
+            "goal_det": [
+                "my",
+                "the",
+                "your",
+                "our",
+                "his"
+            ],
+            "goal_noun": [
+                "face",
+                "attention",
+                "man",
+                "friend",
+                "mum"
+            ],
+            "theme_type": [
+                "pronominal"
+            ],
+            "goal_type": [
+                "nominal"
+            ]
+        }
+    },
+    "only": {
+        "variants": [
+            "just",
+            "only",
+            "nowt but",
+            "but",
+            "nobbut",
+            "nought but"
+        ],
+        "factors": {}
+    }
+}
