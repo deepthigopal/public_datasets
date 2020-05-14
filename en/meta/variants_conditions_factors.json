@@ -36,5 +36,55 @@
                 "False"
             ]
         }
+    },
+    "preposition_drop": {
+        "variants": [
+            "preposition_dropped",
+            "preposition_retained"
+        ],
+        "factors": {
+            "verb_stem": [
+                "go",
+                "come",
+                "walk",
+                "head",
+                "return",
+                
+            ],
+            "determiner_status": [
+                "determiner_present",
+                "determiner_absent"
+            ],
+            "noun_requires_determiner": [
+                "no",
+                "yes"
+            ],
+            "determiner": [
+                "the",
+                "this",
+                "that",
+                "another",
+                "any"
+            ],
+            "modifier_status": [
+                "modifier_present",
+                "modifier_absent"
+            ],
+            "modifier": [
+                "back",
+                "straight",
+                "directly",
+                "direct",
+                "right"
+            ],
+            "purpose_clause": [
+                "True",
+                "False"
+            ],
+            "matrix_negation": [
+                "True",
+                "False"
+            ]
+        }
     }
 }
