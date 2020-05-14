@@ -91,54 +91,50 @@
     },
     "double_object": {
         "variants": [
-            "preposition_dropped",
-            "preposition_retained"
+            "goal_theme_ditransitive",
+            "prepositional_dative",
+            "theme_goal_ditransitive"
         ],
         "factors": {
             "verb_stem": [
-                "go",
-                "come",
-                "walk",
-                "head",
-                "return",
-                "swim"
+                "give",
+                "send",
+                "show",
+                "dm",
+                "bring",
+                "say"
             ],
             "verb_tag": [
+                "VB",
+                "VBP",
+                "VBD",
+                "VAG",
+                "VBN"
             ],
-            "noun": [
-                "bed",
-                "gym",
-                "school",
-                "uni",
-                "pub",
-                "shop"
+            "theme_type": [
+                "pronominal_it",
+                "pronominal",
+                "nominal"
             ],
-            "determiner_status": [
-                "determiner_present",
-                "determiner_absent"
+            "goal_type": [
+                "pronominal_it",
+                "pronominal",
+                "nominal"
             ],
-            "noun_requires_determiner": [
-                "no",
-                "yes"
+            "theme_noun": [
+                "email",
+                "message",
+                "money",
+                "link",
+                "picture"
             ],
-            "determiner": [
-                "the",
-                "this",
-                "that",
-                "another",
-                "any"
-            ],
-            "modifier_status": [
-                "modifier_present",
-                "modifier_absent"
-            ],
-            "modifier": [
-                "back",
-                "straight",
-                "directly",
-                "direct",
-                "right"
-            ],
+            "goal_noun": [
+                "face",
+                "friend",
+                "mum",
+                "dad",
+                "daughter"
+            ]
         }
     }
 }
