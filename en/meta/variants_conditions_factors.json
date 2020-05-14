@@ -49,7 +49,17 @@
                 "walk",
                 "head",
                 "return",
-                
+                "swim"
+            ],
+            "verb_tag": [
+            ],
+            "noun": [
+                "bed",
+                "gym",
+                "school",
+                "uni",
+                "pub",
+                "shop"
             ],
             "determiner_status": [
                 "determiner_present",
@@ -77,14 +87,58 @@
                 "direct",
                 "right"
             ],
-            "purpose_clause": [
-                "True",
-                "False"
+        }
+    },
+    "double_object": {
+        "variants": [
+            "preposition_dropped",
+            "preposition_retained"
+        ],
+        "factors": {
+            "verb_stem": [
+                "go",
+                "come",
+                "walk",
+                "head",
+                "return",
+                "swim"
             ],
-            "matrix_negation": [
-                "True",
-                "False"
-            ]
+            "verb_tag": [
+            ],
+            "noun": [
+                "bed",
+                "gym",
+                "school",
+                "uni",
+                "pub",
+                "shop"
+            ],
+            "determiner_status": [
+                "determiner_present",
+                "determiner_absent"
+            ],
+            "noun_requires_determiner": [
+                "no",
+                "yes"
+            ],
+            "determiner": [
+                "the",
+                "this",
+                "that",
+                "another",
+                "any"
+            ],
+            "modifier_status": [
+                "modifier_present",
+                "modifier_absent"
+            ],
+            "modifier": [
+                "back",
+                "straight",
+                "directly",
+                "direct",
+                "right"
+            ],
         }
     }
 }
