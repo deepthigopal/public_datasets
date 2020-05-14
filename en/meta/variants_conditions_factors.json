@@ -51,8 +51,6 @@
                 "return",
                 "swim"
             ],
-            "verb_tag": [
-            ],
             "noun": [
                 "bed",
                 "gym",
@@ -86,7 +84,7 @@
                 "directly",
                 "direct",
                 "right"
-            ],
+            ]
         }
     },
     "double_object": {
