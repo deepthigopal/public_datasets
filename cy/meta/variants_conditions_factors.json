@@ -1,0 +1,138 @@
+{
+    "needs_washed": {
+        "variants": [
+            "needs Xed",
+            "needs to be Xed",
+            "needs Xing"
+        ],
+        "factors": {
+            "matrix_verb_stem": [
+                "need",
+                "want",
+                "deserve"
+            ],
+            "matrix_verb_tag": [
+                "VBP",
+                "VBD"
+            ],
+            "embedded_stem": [
+                "do",
+                "sort",
+                "cover",
+                "fix",
+                "change",
+                "cuddle"
+            ],
+            "by_phrase": [
+                "True",
+                "False"
+            ],
+            "purpose_clause": [
+                "True",
+                "False"
+            ],
+            "matrix_negation": [
+                "True",
+                "False"
+            ]
+        }
+    },
+    "preposition_drop": {
+        "variants": [
+            "preposition_dropped",
+            "preposition_retained"
+        ],
+        "factors": {
+            "verb_stem": [
+                "go",
+                "come",
+                "walk",
+                "head",
+                "return",
+                "swim"
+            ],
+            "noun": [
+                "bed",
+                "gym",
+                "school",
+                "uni",
+                "pub",
+                "shop"
+            ],
+            "determiner_status": [
+                "determiner_present",
+                "determiner_absent"
+            ],
+            "noun_requires_determiner": [
+                "no",
+                "yes"
+            ],
+            "determiner": [
+                "the",
+                "this",
+                "that",
+                "another",
+                "any"
+            ],
+            "modifier_status": [
+                "modifier_present",
+                "modifier_absent"
+            ],
+            "modifier": [
+                "back",
+                "straight",
+                "directly",
+                "direct",
+                "right"
+            ]
+        }
+    },
+    "double_object": {
+        "variants": [
+            "goal_theme_ditransitive",
+            "prepositional_dative",
+            "theme_goal_ditransitive"
+        ],
+        "factors": {
+            "verb_stem": [
+                "give",
+                "send",
+                "show",
+                "dm",
+                "bring",
+                "say"
+            ],
+            "verb_tag": [
+                "VB",
+                "VBP",
+                "VBD",
+                "VAG",
+                "VBN"
+            ],
+            "theme_type": [
+                "pronominal_it",
+                "pronominal",
+                "nominal"
+            ],
+            "goal_type": [
+                "pronominal_it",
+                "pronominal",
+                "nominal"
+            ],
+            "theme_noun": [
+                "email",
+                "message",
+                "money",
+                "link",
+                "picture"
+            ],
+            "goal_noun": [
+                "face",
+                "friend",
+                "mum",
+                "dad",
+                "daughter"
+            ]
+        }
+    }
+}
