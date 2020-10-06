@@ -39,7 +39,8 @@
     },
     "preposition_drop": {
         "variants": [
-            "preposition_dropped",
+            "preposition_dropped_without_determiner",
+            "preposition_dropped_with_determiner"
             "preposition_retained"
         ],
         "factors": {
@@ -49,6 +50,10 @@
                 "walk",
                 "head",
                 "return",
+                "drive",
+                "travel",
+                "fly",
+                "rush",
                 "swim"
             ],
             "noun": [
@@ -57,7 +62,17 @@
                 "school",
                 "uni",
                 "pub",
-                "shop"
+                "shop",
+                "town",
+                "shop",
+                "cinema",
+                "football",
+                "college",
+                "class",
+                "club",
+                "gig",
+                "hospital",
+                "toilet"
             ],
             "determiner_status": [
                 "determiner_present",
