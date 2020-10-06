@@ -40,7 +40,7 @@
     "preposition_drop": {
         "variants": [
             "preposition_dropped_without_determiner",
-            "preposition_dropped_with_determiner"
+            "preposition_dropped_with_determiner",
             "preposition_retained"
         ],
         "factors": {
