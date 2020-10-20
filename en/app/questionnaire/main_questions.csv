@@ -26,9 +26,9 @@ question,question_name,dataset,question_text,variant,variant_text
 10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xing,My hair needs washing.
 10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xed,My hair needs washed.
 10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs to be Xed,My hair needs to be washed.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, might you say:",Y needs X Ved,She needs her car fixed.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, might you say:",Y needs X Ving,She needs her car fixing.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, might you say:",Y needs X to be Ved,She needs her car to be fixed.
+11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ved,She needs her car fixed.
+11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ving,She needs her car fixing.
+11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X to be Ved,She needs her car to be fixed.
 12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xed,The fence wants painted. 
 12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xing,The fence wants painting.
 12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",NODATA,I wouldn’t say either of these.
@@ -42,8 +42,8 @@ question,question_name,dataset,question_text,variant,variant_text
 13,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.
 14,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.
 14,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.
-15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you had been the nearest person to the door?,past_participle,I was stood by the door.
-15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you had been the nearest person to the door?,present_participle,I was standing by the door. 
+15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,past_participle,I was stood by the door.
+15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,present_participle,I was standing by the door. 
 16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one."
 16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one."
 16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one."
