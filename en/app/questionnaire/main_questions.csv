@@ -8,48 +8,50 @@ question,question_name,dataset,question_text,variant,variant_text
 2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_drop_determiner,Let’s go straight the pub.
 3,should of vs. should have,should_of_kde164,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_have,You really should have.
 3,should of vs. should have,should_of_kde164,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_of,You really should of.
-5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,amnt,"I’m right, amn’t I?"
-5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,arent,"I’m right, aren’t I?"
-5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,int,"I’m right, in’t I?"
-5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,aint,"I’m right, ain’t I? "
-5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,ent,"I’m right, en’t I? "
-6,off of,off_of_kde213,"You're cross with the dog for lying on the bed again. Could you say:",off_of,"Get off of it!"
-6,off of,off_of_kde213,"You're cross with the dog for lying on the bed again. Could you say:",off,"Get off it!"
-7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her it tomorrow.
-7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to her tomorrow. 
-7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it her tomorrow.
-8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?
-8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?
-8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?
-8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?
-8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?
-9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xing,Her hard work deserves rewarding.
-9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xed,Her hard work deserves rewarded.
-9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs to be Xed,Her hard work deserves to be rewarded.
-10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xing,My hair needs washing.
-10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xed,My hair needs washed.
-10,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs to be Xed,My hair needs to be washed.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ved,She needs her car fixed.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ving,She needs her car fixing.
-11,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X to be Ved,She needs her car to be fixed.
-12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xed,The fence wants painted. 
-12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xing,The fence wants painting.
-12,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",NODATA,I wouldn’t say either of these.
-13,3sgm. ref. pro. first & second element,reflexives_kde131,"Describing a home-made cake, would you say: ",himself,He made it himself.
-13,3sgm. ref. pro. first & second element,reflexives_kde132,"Describing a home-made cake, would you say: ",himsel,He made it himsel.
-13,3sgm. ref. pro. first & second element,reflexives_kde133,"Describing a home-made cake, would you say: ",hisself,He made it hisself.
-13,3sgm. ref. pro. first & second element,reflexives_kde134,"Describing a home-made cake, would you say: ",hissel,He made it hissel.
-13,3sgm. ref. pro. first & second element,reflexives_kde136,"Describing a home-made cake, would you say: ",himsen,He made it himsen.
-13,3sgm. ref. pro. first & second element,reflexives_kde137,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.
-13,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.
-13,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.
-14,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.
-14,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.
-15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,past_participle,I was stood by the door.
-15,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,present_participle,I was standing by the door. 
-16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one."
-16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one."
-16,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one."
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,amnt,"I’m right, amn’t I?"
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,arent,"I’m right, aren’t I?"
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,int,"I’m right, in’t I?"
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,aint,"I’m right, ain’t I? "
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,ent,"I’m right, en’t I? "
+5,off of,off_of_kde213,You're cross with the dog for lying on the bed again. Could you say:,off_of,Get off of it!
+5,off of,off_of_kde213,You're cross with the dog for lying on the bed again. Could you say:,off,Get off it!
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her it tomorrow.
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to her tomorrow. 
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it her tomorrow.
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xing,Her hard work deserves rewarding.
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xed,Her hard work deserves rewarded.
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs to be Xed,Her hard work deserves to be rewarded.
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xing,My hair needs washing.
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs Xed,My hair needs washed.
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs to be Xed,My hair needs to be washed.
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ved,She needs her car fixed.
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X Ving,She needs her car fixing.
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y needs X to be Ved,She needs her car to be fixed.
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xed,The fence wants painted. 
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs Xing,The fence wants painting.
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",NODATA,I wouldn’t say either of these.
+12,3sgm. ref. pro. first & second element,reflexives_kde131,"Describing a home-made cake, would you say: ",himself,He made it himself.
+12,3sgm. ref. pro. first & second element,reflexives_kde132,"Describing a home-made cake, would you say: ",himsel,He made it himsel.
+12,3sgm. ref. pro. first & second element,reflexives_kde133,"Describing a home-made cake, would you say: ",hisself,He made it hisself.
+12,3sgm. ref. pro. first & second element,reflexives_kde134,"Describing a home-made cake, would you say: ",hissel,He made it hissel.
+12,3sgm. ref. pro. first & second element,reflexives_kde136,"Describing a home-made cake, would you say: ",himsen,He made it himsen.
+12,3sgm. ref. pro. first & second element,reflexives_kde137,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.
+12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.
+12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.
+13,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.
+13,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.
+14,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,past_participle,I was stood by the door.
+14,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,present_participle,I was standing by the door. 
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one."
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one."
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one."
+16,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,doubled,"If I'd've known you were coming, I'd have made more food."
+16,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,control,"If I'd known you were coming, I'd have made more food."
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dont,I don’t feel very well.
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinnae,I dinnae/dinnie/dinny feel very well.
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinna,I dinna feel very well. 
@@ -66,14 +68,12 @@ question,question_name,dataset,question_text,variant,variant_text
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",bare,"It's bare good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",pretty,"It's pretty good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",proper,"It's proper good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",pure,"It's pure good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",rather,"It's rather good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",really,"It's really good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",so,"It's so good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",very,"It's very good."
-20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",well,"It's well good."
-21,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,doubled,"If I'd've known you were coming, I'd have made more food."
-21,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,control,"If I'd known you were coming, I'd have made more food."
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,bare,It's bare good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pretty,It's pretty good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,proper,It's proper good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pure,It's pure good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,rather,It's rather good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,really,It's really good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,so,It's so good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,very,It's very good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,well,It's well good.
