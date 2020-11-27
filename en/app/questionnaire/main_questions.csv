@@ -13,13 +13,16 @@ question,question_name,dataset,question_text,variant,variant_text
 5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,int,"I’m right, in’t I?"
 5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,aint,"I’m right, ain’t I? "
 5,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,ent,"I’m right, en’t I? "
+6,off of,off_of_kde213,"You're cross with the dog for lying on the bed again. Could you say:",off_of,"Get off of it!"
+6,off of,off_of_kde213,"You're cross with the dog for lying on the bed again. Could you say:",off,"Get off it!"
 7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her it tomorrow.
 7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to her tomorrow. 
 7,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it her tomorrow.
-8,locative interrogatives,location_questions_kde156,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?
-8,locative interrogatives,location_questions_kde156,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?
-8,locative interrogatives,location_questions_kde156,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?
-8,locative interrogatives,location_questions_kde156,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?
+8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?
+8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?
+8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?
+8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?
+8,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?
 9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xing,Her hard work deserves rewarding.
 9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xed,Her hard work deserves rewarded.
 9,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs to be Xed,Her hard work deserves to be rewarded.
@@ -63,5 +66,14 @@ question,question_name,dataset,question_text,variant,variant_text
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",bare,"It's bare good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",pretty,"It's pretty good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",proper,"It's proper good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",pure,"It's pure good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",rather,"It's rather good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",really,"It's really good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",so,"It's so good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",very,"It's very good."
+20,adjective intensifiers,intensifiers_adjectival_kde522,"You're complimenting a meal. Would you say:",well,"It's well good."
 21,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,doubled,"If I'd've known you were coming, I'd have made more food."
 21,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,control,"If I'd known you were coming, I'd have made more food."
