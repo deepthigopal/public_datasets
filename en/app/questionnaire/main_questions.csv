@@ -68,12 +68,17 @@ question,question_name,dataset,question_text,variant,variant_text
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?
 19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,bare,It's bare good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pretty,It's pretty good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,proper,It's proper good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pure,It's pure good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,rather,It's rather good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,really,It's really good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,so,It's so good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,very,It's very good.
-20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,well,It's well good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,bare,That's bare good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pretty,That's pretty good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,proper,That's proper good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pure,That's pure good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,rather,That's rather good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,really,That's really good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,so,That's so good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,very,That's very good.
+20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,well,That's well good.
+21,quantifiers,bare_people_kde97,You've just been at a very crowded place. Would you say:,bare,I saw bare people there.
+21,quantifiers,bare_people_kde97,You've just been at a very crowded place. Would you say:,a_load_of,I saw a load of people there.
+21,quantifiers,bare_people_kde97,You've just been at a very crowded place. Would you say:,loads_of,I saw loads of people there.
+21,quantifiers,bare_people_kde97,You've just been at a very crowded place. Would you say:,a_lot_of,I saw a lot of people there.
+21,quantifiers,bare_people_kde97,You've just been at a very crowded place. Would you say:,lots_of,I saw lots of people there.
