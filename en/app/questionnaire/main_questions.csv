@@ -82,3 +82,5 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,a_load_of,I saw a load of people there.,1
 21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,lots_of,I saw lots of people there.,1
 21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
+22,want_wanting,want_wanting_kde378.csv,A friend asks you what you're thinking about buying for yourself. Could you say:,wanting,I'm wanting a new shirt.,1
+22,want_wanting,want_wanting_kde378.csv,A friend asks you what you're thinking about buying for yourself. Could you say:,want,I want a new shirt.,1
