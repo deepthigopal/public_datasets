@@ -77,3 +77,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,so,It's so good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,very,It's very good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,well,It's well good.,1
+21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,bare,I saw bare people there.,1
+21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,a_lot_of,I saw a lot of people there.,1
+21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,a_load_of,I saw a load of people there.,1
+21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,lots_of,I saw lots of people there.,1
+21,quantifier,bare_people_kde97,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
