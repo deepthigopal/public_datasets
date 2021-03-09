@@ -396,5 +396,41 @@
                 "yous"
             ]
         }
+    },
+    "intensifiers": {
+        "variants": [
+            "so",
+            "very",
+            "really",
+            "pretty",
+            "well",
+            "rather",
+            "proper",
+            "bare",
+            "pure"
+        ],
+        "factors": {
+            "adjective_modified": [
+                "good",
+                "sad",
+                "bad",
+                "cool",
+                "interesting",
+                "funny",
+                "cute",
+                "big",
+                "weird",
+                "annoying",
+                "sick",
+                "confused",
+                "boring",
+                "small",
+                "depressing",
+                "confusing",
+                "peng",
+                "huge",
+                "jarring"
+            ]
+        }
     }
 }
