@@ -722,39 +722,5 @@
                 "yous"
             ]
         }
-    },
-    "doesnt_doesnae": {
-    "variants": [
-        "didna",
-        "didnae",
-        "didnt",
-        "didny",
-        "dinna",
-        "dinnae",
-        "dinnit",
-        "dinny",
-        "disna",
-        "disnae",
-        "disny",
-        "divent",
-        "divint",
-        "divna",
-        "divnae",
-        "divnt",
-        "divny",
-        "doesna",
-        "doesnae",
-        "doesnt",
-        "doesny",
-        "dusna",
-        "dusnae",
-        "dusny"
-    ],
-    "factors": {
-        "tense": [
-            "past",
-            "present"
-        ]
-        }
     }
 }
