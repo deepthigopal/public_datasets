@@ -763,6 +763,11 @@
         "after_perfective_with_modifier"
     ],
     "factors": {
+        "tense": [
+            "past",
+            "present"
+        ]
         }
     }
+}
 }
