@@ -755,7 +755,8 @@
             "past",
             "present"
         ]
-        },
+        }
+    },
     "after_perfective": {
     "variants": [
         "control",
@@ -770,4 +771,4 @@
         }
     }
 }
-}
+
