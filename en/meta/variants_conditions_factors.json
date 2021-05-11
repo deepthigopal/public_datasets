@@ -549,6 +549,12 @@
             "preposition_dropped_with_determiner",
             "preposition_retained"
         ],
+        "colours":
+        [
+            "vermillion",
+            "pink",
+            "blue"
+        ],
         "factors": {
             "verb_stem": [
                 "go",
@@ -630,9 +636,9 @@
         ],
         "colours":
            [
-               "vermillion",
+               "yellow",
                "blue",
-               "yellow"
+               "pink"
            ],
         "factors": {
             "verb_stem": [
@@ -737,8 +743,8 @@
     },
     "doesnt_doesnae": {
     "variants": [
-        "didnt",
-        "doesnt",
+        ["didnt",
+        "doesnt"],
         "didna",
         ["didnae",
         "didny"],
@@ -754,8 +760,7 @@
     ],
     "colours":
     [
-        "light_grey",
-        "dark_grey"
+        "light_grey"
     ],
     "factors": {
         "tense": [
