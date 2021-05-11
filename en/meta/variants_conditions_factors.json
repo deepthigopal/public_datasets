@@ -551,8 +551,8 @@
         ],
         "colours":
         [
-            "vermillion",
             "pink",
+            "light_pink",
             "blue"
         ],
         "factors": {
