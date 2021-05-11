@@ -775,6 +775,12 @@
         "after_perfective",
         "after_perfective_with_modifier"
     ],
+    "colours":
+    [
+        "light_grey",
+        "vermillion",
+        "cambridge_blue"
+    ],
     "factors": {
         "tense": [
             "past",
