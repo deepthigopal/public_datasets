@@ -733,15 +733,17 @@
         "dinna",
         ["dinnae",
         "dinny"],
-        "disna",
-        ["disnae",
-        "disny"],
+        ["doesna","dusna", "disna"],
+        ["doesnae","doesny","dusnae","dusny","disnae","disny"],
         "dinnit",
         "divna",
         ["divnae","divny"],
-        ["divent","divint","divnt"],
-        ["doesna","dusna"],
-        ["doesnae","doesny","dusnae","dusny"]
+        ["divent","divint","divnt"]
+    ],
+    "colours":
+    [
+        "light_grey",
+        "dark_grey"
     ],
     "factors": {
         "tense": [
