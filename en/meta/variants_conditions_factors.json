@@ -5,6 +5,12 @@
             "needs to be Xed",
             "needs Xing"
         ],
+        "colours":
+           [
+               "vermillion",
+               "blue",
+               "yellow"
+           ],
         "factors": {
             "matrix_verb_stem": [
                 "need",
@@ -622,6 +628,12 @@
             "prepositional_dative",
             "theme_goal_ditransitive"
         ],
+        "colours":
+           [
+               "vermillion",
+               "blue",
+               "yellow"
+           ],
         "factors": {
             "verb_stem": [
                 "give",
