@@ -809,6 +809,20 @@
             "annoying", "bad", "big", "boring", "confused", "confusing", "cool", "cute", "depressing", "funny", "good", "huge", "interesting", "jarring", "peng", "sad", "sick", "small", "weird"
         ]
         }
+    },
+    "quantifiers": {
+    "variants": [
+        "a lot of",
+        "lots of",
+        "loads of",
+        "a load of",
+        "bare"
+    ],
+    "colours":
+    [
+        "light_grey",
+        "dark_grey"
+    ]
     }
 }
 
