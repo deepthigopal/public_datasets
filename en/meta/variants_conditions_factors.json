@@ -787,6 +787,28 @@
             "present"
         ]
         }
+    },
+    "intensifiers": {
+    "variants": [
+        "very",
+        ["so","really"],
+        "pretty",
+        "well",
+        "rather",
+        "proper",
+        "bare",
+        "pure"
+    ],
+    "colours":
+    [
+        "light_grey",
+        "dark_grey"
+    ],
+    "factors": {
+        "adjective_modified": [
+            "annoying", "bad", "big", "boring", "confused", "confusing", "cool", "cute", "depressing", "funny", "good", "huge", "interesting", "jarring", "peng", "sad", "sick", "small", "weird"
+        ]
+        }
     }
 }
 

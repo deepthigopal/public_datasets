@@ -17,5 +17,4 @@ for file in os.listdir('.'):
 		new['weight'] = new['count']/new.userid
 		new = new[[item for item in new.columns if item not in ['userid','count']]]
 		new = new.groupby([item for item in new.columns if item not in ['weight']]).sum().reset_index()
-		
 		new.to_csv('../weighted/'+file)
