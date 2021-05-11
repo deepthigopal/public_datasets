@@ -805,8 +805,7 @@
     },
     "intensifiers": {
     "variants": [
-        "very",
-        ["so","really"],
+        ["very","so","really"],
         "pretty",
         "well",
         "rather",
