@@ -14,6 +14,20 @@
         "yellow"
     ]
     },
+    "relativisers_human": {
+    "variants": [
+        "who",
+        "that",
+        "what",
+        "which",
+        "as"
+    ],
+    "colours":
+    [
+        "light_grey",
+        "yellow"
+    ]
+    },
     "needs_washed": {
         "variants": [
             "needs Xed",
