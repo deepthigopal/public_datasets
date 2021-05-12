@@ -1,13 +1,16 @@
 import pandas as pd
 import os
 
-for file in os.listdir('.'):
+files = [x for x in os.listdir('.')]
+files2 = [x for x in os.listdir('../weighted')]
+files = [x for x in files if x not in files2]
+
+for file in files:
 	if file.endswith('.csv'):
 		print file
 		data = pd.read_csv(file)
 
-
-		[item for item in data.columns if item not in ['index']]
+#		[item for item in data.columns if item not in ['index']]
 
 		data = data.fillna('no value')
 
