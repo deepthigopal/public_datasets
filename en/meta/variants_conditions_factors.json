@@ -1,61 +1,60 @@
 {
     "quantifiers": {
-    "variants": [
-        ["a lot of",
-        "lots of"],
-        ["loads of",
-        "a load of"],
-        "bare"
-    ],
-    "colours":
-    [
-        "light_grey",
-        "dark_grey",
-        "yellow"
-    ]
+        "variants": [
+            ["a lot of",
+                "lots of"
+            ],
+            ["loads of",
+                "a load of"
+            ],
+            "bare"
+        ],
+        "colours": [
+            "light_grey",
+            "dark_grey",
+            "yellow"
+        ]
     },
     "was_stood": {
-    "variants": [
-        "past participle,
-        "present participle"
-    ],
-    "colours":
-    [
-        "vermillion",
-        "robin_egg_blue"
-    ]
-    "factors": {
-    "negation": [
-        "affirmative",
-        "negative"
-    ],
-    "participial_form": [
-        "sitting",
-        "sittin",
-        "standing",
-        "standin",
-        "sat",
-        "stood"
-    ],
-    "verb_stem": [
-        "sit",
-        "stand"
-    ]
-    }
+        "variants": [
+            "past participle",
+            "present participle"
+        ],
+        "colours": [
+            "vermillion",
+            "robin_egg_blue"
+        ],
+        "factors": {
+            "negation": [
+                "affirmative",
+                "negative"
+            ],
+            "participial_form": [
+                "sitting",
+                "sittin",
+                "standing",
+                "standin",
+                "sat",
+                "stood"
+            ],
+            "verb_stem": [
+                "sit",
+                "stand"
+            ]
+        }
     },
     "relativisers_human": {
-    "variants": [
-        "who",
-        "that",
-        "what",
-        "which",
-        "as"
-    ],
-    "colours":
-    [
-        "light_grey",
-        "yellow"
-    ]
+        "variants": [
+            "who",
+            "that",
+            "what",
+            "which",
+            "as"
+        ],
+        "colours": [
+            "light_grey",
+            "yellow"
+        ]
     },
     "needs_washed": {
         "variants": [
@@ -63,12 +62,11 @@
             "needs to be Xed",
             "needs Xing"
         ],
-        "colours":
-           [
-               "vermillion",
-               "blue",
-               "yellow"
-           ],
+        "colours": [
+            "vermillion",
+            "blue",
+            "yellow"
+        ],
         "factors": {
             "matrix_verb_stem": [
                 "need",
@@ -607,8 +605,7 @@
             "preposition_dropped_with_determiner",
             "preposition_retained"
         ],
-        "colours":
-        [
+        "colours": [
             "pink",
             "light_pink",
             "blue"
@@ -692,12 +689,11 @@
             "prepositional_dative",
             "theme_goal_ditransitive"
         ],
-        "colours":
-           [
-               "yellow",
-               "blue",
-               "pink"
-           ],
+        "colours": [
+            "yellow",
+            "blue",
+            "pink"
+        ],
         "factors": {
             "verb_stem": [
                 "give",
@@ -800,72 +796,71 @@
         }
     },
     "doesnt_doesnae": {
-    "variants": [
-        ["didnt",
-        "doesnt"],
-        "didna",
-        ["didnae",
-        "didny"],
-        "dinna",
-        ["dinnae",
-        "dinny"],
-        ["doesna","dusna", "disna"],
-        ["doesnae","doesny","dusnae","dusny","disnae","disny"],
-        "dinnit",
-        "divna",
-        ["divnae","divny"],
-        ["divent","divint","divnt"]
-    ],
-    "colours":
-    [
-        "light_grey"
-    ],
-    "factors": {
-        "tense": [
-            "past",
-            "present"
-        ]
+        "variants": [
+            ["didnt",
+                "doesnt"
+            ],
+            "didna",
+            ["didnae",
+                "didny"
+            ],
+            "dinna",
+            ["dinnae",
+                "dinny"
+            ],
+            ["doesna", "dusna", "disna"],
+            ["doesnae", "doesny", "dusnae", "dusny", "disnae", "disny"],
+            "dinnit",
+            "divna",
+            ["divnae", "divny"],
+            ["divent", "divint", "divnt"]
+        ],
+        "colours": [
+            "light_grey"
+        ],
+        "factors": {
+            "tense": [
+                "past",
+                "present"
+            ]
         }
     },
     "after_perfective": {
-    "variants": [
-        "control",
-        "after_perfective",
-        "after_perfective_with_modifier"
-    ],
-    "colours":
-    [
-        "light_grey",
-        "pink",
-        "robin_egg_blue"
-    ],
-    "factors": {
-        "tense": [
-            "past",
-            "present"
-        ]
+        "variants": [
+            "control",
+            "after_perfective",
+            "after_perfective_with_modifier"
+        ],
+        "colours": [
+            "light_grey",
+            "pink",
+            "robin_egg_blue"
+        ],
+        "factors": {
+            "tense": [
+                "past",
+                "present"
+            ]
         }
     },
     "intensifiers": {
-    "variants": [
-        ["very","so","really"],
-        "pretty",
-        "well",
-        "rather",
-        "proper",
-        "bare",
-        "pure"
-    ],
-    "colours":
-    [
-        "light_grey",
-        "dark_grey"
-    ],
-    "factors": {
-        "adjective_modified": [
-            "annoying", "bad", "big", "boring", "confused", "confusing", "cool", "cute", "depressing", "funny", "good", "huge", "interesting", "jarring", "peng", "sad", "sick", "small", "weird"
-        ]
+        "variants": [
+            ["very", "so", "really"],
+            "pretty",
+            "well",
+            "rather",
+            "proper",
+            "bare",
+            "pure"
+        ],
+        "colours": [
+            "light_grey",
+            "dark_grey"
+        ],
+        "factors": {
+            "adjective_modified": [
+                "annoying", "bad", "big", "boring", "confused", "confusing", "cool", "cute", "depressing", "funny", "good", "huge", "interesting", "jarring", "peng", "sad", "sick", "small", "weird"
+            ]
         }
     }
 }
-
