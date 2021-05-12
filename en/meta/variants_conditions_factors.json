@@ -1,19 +1,226 @@
 {
-    "quantifiers": {
+    "after_perfective": {
         "variants": [
-            ["a lot of",
-                "lots of"
-            ],
-            ["loads of",
-                "a load of"
-            ],
-            "bare"
+            "control",
+            "after_perfective",
+            "after_perfective_with_modifier"
         ],
         "colours": [
             "light_grey",
-            "dark_grey",
-            "yellow"
-        ]
+            "pink",
+            "robin_egg_blue"
+        ],
+        "factors": {
+            "tense": [
+                "past",
+                "present"
+            ]
+        }
+    },
+    "doesnt_doesnae": {
+        "variants": [
+            [
+                "didnt",
+                "doesnt"
+            ],
+            "didna",
+            [
+                "didnae",
+                "didny"
+            ],
+            "dinna",
+            [
+                "dinnae",
+                "dinny"
+            ],
+            [
+                "doesna",
+                "dusna",
+                "disna"
+            ],
+            [
+                "doesnae",
+                "doesny",
+                "dusnae",
+                "dusny",
+                "disnae",
+                "disny"
+            ],
+            "dinnit",
+            "divna",
+            [
+                "divnae",
+                "divny"
+            ],
+            [
+                "divent",
+                "divint",
+                "divnt"
+            ]
+        ],
+        "colours": [
+            "light_grey"
+        ],
+        "factors": {
+            "tense": [
+                "past",
+                "present"
+            ]
+        }
+    },
+    "double_object": {
+        "variants": [
+            "goal_theme_ditransitive",
+            "prepositional_dative",
+            "theme_goal_ditransitive"
+        ],
+        "colours": [
+            "yellow",
+            "blue",
+            "pink"
+        ],
+        "factors": {
+            "verb_stem": [
+                "give",
+                "send",
+                "get",
+                "leave",
+                "sell",
+                "dm",
+                "say",
+                "sock",
+                "show",
+                "bring",
+                "lend",
+                "email",
+                "stick",
+                "explain",
+                "mention",
+                "post",
+                "put",
+                "sing",
+                "message",
+                "hand",
+                "gift",
+                "pass",
+                "report",
+                "read",
+                "prove",
+                "teach",
+                "tweet",
+                "transfer",
+                "offer",
+                "pay",
+                "owe",
+                "feed",
+                "return",
+                "hold",
+                "pitch",
+                "link",
+                "push",
+                "play",
+                "write",
+                "mail",
+                "suggest",
+                "donate",
+                "forward",
+                "dedicate",
+                "credit",
+                "deliver",
+                "announce",
+                "open",
+                "order",
+                "describe",
+                "kick",
+                "serve",
+                "apply",
+                "drive",
+                "attribute",
+                "tie",
+                "quote",
+                "introduce",
+                "compare",
+                "pull",
+                "upload",
+                "release",
+                "promote",
+                "recommend",
+                "share"
+            ],
+            "verb_tag": [
+                "VB",
+                "VBP",
+                "VBD",
+                "VAG",
+                "VBN"
+            ],
+            "theme_type": [
+                "pronominal_it",
+                "pronominal"
+            ],
+            "goal_type": [
+                "pronominal_it",
+                "pronominal",
+                "nominal"
+            ],
+            "theme": [
+                "it"
+            ],
+            "goal": [
+                "you",
+                "me",
+                "him",
+                "them",
+                "ya",
+                "her",
+                "us",
+                "u",
+                "use",
+                "yous"
+            ]
+        }
+    },
+    "intensifiers": {
+        "variants": [
+            [
+                "very",
+                "so",
+                "really"
+            ],
+            "pretty",
+            "well",
+            "rather",
+            "proper",
+            "bare",
+            "pure"
+        ],
+        "colours": [
+            "light_grey",
+            "dark_grey"
+        ],
+        "factors": {
+            "adjective_modified": [
+                "annoying",
+                "bad",
+                "big",
+                "boring",
+                "confused",
+                "confusing",
+                "cool",
+                "cute",
+                "depressing",
+                "funny",
+                "good",
+                "huge",
+                "interesting",
+                "jarring",
+                "peng",
+                "sad",
+                "sick",
+                "small",
+                "weird"
+            ]
+        }
     },
     "location_questions": {
         "variants": [
@@ -25,47 +232,6 @@
         ],
         "colours": [
             "light_grey"
-        ]
-    },
-    "was_stood": {
-        "variants": [
-            "past participle",
-            "present participle"
-        ],
-        "colours": [
-            "vermillion",
-            "robin_egg_blue"
-        ],
-        "factors": {
-            "negation": [
-                "affirmative",
-                "negative"
-            ],
-            "participial_form": [
-                "sitting",
-                "sittin",
-                "standing",
-                "standin",
-                "sat",
-                "stood"
-            ],
-            "verb_stem": [
-                "sit",
-                "stand"
-            ]
-        }
-    },
-    "relativisers_human": {
-        "variants": [
-            "who",
-            "that",
-            "what",
-            "which",
-            "as"
-        ],
-        "colours": [
-            "light_grey",
-            "yellow"
         ]
     },
     "needs_washed": {
@@ -695,183 +861,62 @@
             ]
         }
     },
-    "double_object": {
+    "quantifiers": {
         "variants": [
-            "goal_theme_ditransitive",
-            "prepositional_dative",
-            "theme_goal_ditransitive"
-        ],
-        "colours": [
-            "yellow",
-            "blue",
-            "pink"
-        ],
-        "factors": {
-            "verb_stem": [
-                "give",
-                "send",
-                "get",
-                "leave",
-                "sell",
-                "dm",
-                "say",
-                "sock",
-                "show",
-                "bring",
-                "lend",
-                "email",
-                "stick",
-                "explain",
-                "mention",
-                "post",
-                "put",
-                "sing",
-                "message",
-                "hand",
-                "gift",
-                "pass",
-                "report",
-                "read",
-                "prove",
-                "teach",
-                "tweet",
-                "transfer",
-                "offer",
-                "pay",
-                "owe",
-                "feed",
-                "return",
-                "hold",
-                "pitch",
-                "link",
-                "push",
-                "play",
-                "write",
-                "mail",
-                "suggest",
-                "donate",
-                "forward",
-                "dedicate",
-                "credit",
-                "deliver",
-                "announce",
-                "open",
-                "order",
-                "describe",
-                "kick",
-                "serve",
-                "apply",
-                "drive",
-                "attribute",
-                "tie",
-                "quote",
-                "introduce",
-                "compare",
-                "pull",
-                "upload",
-                "release",
-                "promote",
-                "recommend",
-                "share"
+            [
+                "a lot of",
+                "lots of"
             ],
-            "verb_tag": [
-                "VB",
-                "VBP",
-                "VBD",
-                "VAG",
-                "VBN"
+            [
+                "loads of",
+                "a load of"
             ],
-            "theme_type": [
-                "pronominal_it",
-                "pronominal"
-            ],
-            "goal_type": [
-                "pronominal_it",
-                "pronominal",
-                "nominal"
-            ],
-            "theme": [
-                "it"
-            ],
-            "goal": [
-                "you",
-                "me",
-                "him",
-                "them",
-                "ya",
-                "her",
-                "us",
-                "u",
-                "use",
-                "yous"
-            ]
-        }
-    },
-    "doesnt_doesnae": {
-        "variants": [
-            ["didnt",
-                "doesnt"
-            ],
-            "didna",
-            ["didnae",
-                "didny"
-            ],
-            "dinna",
-            ["dinnae",
-                "dinny"
-            ],
-            ["doesna", "dusna", "disna"],
-            ["doesnae", "doesny", "dusnae", "dusny", "disnae", "disny"],
-            "dinnit",
-            "divna",
-            ["divnae", "divny"],
-            ["divent", "divint", "divnt"]
-        ],
-        "colours": [
-            "light_grey"
-        ],
-        "factors": {
-            "tense": [
-                "past",
-                "present"
-            ]
-        }
-    },
-    "after_perfective": {
-        "variants": [
-            "control",
-            "after_perfective",
-            "after_perfective_with_modifier"
+            "bare"
         ],
         "colours": [
             "light_grey",
-            "pink",
+            "dark_grey",
+            "yellow"
+        ]
+    },
+    "relativisers_human": {
+        "variants": [
+            "who",
+            "that",
+            "what",
+            "which",
+            "as"
+        ],
+        "colours": [
+            "light_grey",
+            "yellow"
+        ]
+    },
+    "was_stood": {
+        "variants": [
+            "past participle",
+            "present participle"
+        ],
+        "colours": [
+            "vermillion",
             "robin_egg_blue"
         ],
         "factors": {
-            "tense": [
-                "past",
-                "present"
-            ]
-        }
-    },
-    "intensifiers": {
-        "variants": [
-            ["very", "so", "really"],
-            "pretty",
-            "well",
-            "rather",
-            "proper",
-            "bare",
-            "pure"
-        ],
-        "colours": [
-            "light_grey",
-            "dark_grey"
-        ],
-        "factors": {
-            "adjective_modified": [
-                "annoying", "bad", "big", "boring", "confused", "confusing", "cool", "cute", "depressing", "funny", "good", "huge", "interesting", "jarring", "peng", "sad", "sick", "small", "weird"
+            "negation": [
+                "affirmative",
+                "negative"
+            ],
+            "participial_form": [
+                "sitting",
+                "sittin",
+                "standing",
+                "standin",
+                "sat",
+                "stood"
+            ],
+            "verb_stem": [
+                "sit",
+                "stand"
             ]
         }
     }
