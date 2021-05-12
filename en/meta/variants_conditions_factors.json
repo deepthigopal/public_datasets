@@ -15,6 +15,18 @@
             "yellow"
         ]
     },
+    "location_questions": {
+        "variants": [
+            "where_is_x",
+            "where_is_x_at",
+            "where_x_to",
+            "where_x_about",
+            "where_to_is_x"
+        ],
+        "colours": [
+            "light_grey"
+        ]
+    },
     "was_stood": {
         "variants": [
             "past participle",
