@@ -14,6 +14,35 @@
         "yellow"
     ]
     },
+    "was_stood": {
+    "variants": [
+        "past participle,
+        "present participle"
+    ],
+    "colours":
+    [
+        "vermillion",
+        "robin_egg_blue"
+    ]
+    "factors": {
+    "negation": [
+        "affirmative",
+        "negative"
+    ],
+    "participial_form": [
+        "sitting",
+        "sittin",
+        "standing",
+        "standin",
+        "sat",
+        "stood"
+    ],
+    "verb_stem": [
+        "sit",
+        "stand"
+    ]
+    }
+    },
     "relativisers_human": {
     "variants": [
         "who",
