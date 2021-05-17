@@ -777,6 +777,18 @@
             ]
         }
     },
+    "needs_x_washing": {
+        "variants": [
+                "Y needs X Ving",
+                "Y needs X Ved",
+                "Y needs X to be Ved"
+        ],
+        "colours": [
+            "pink",
+            "yellow",
+            "blue"
+        ]
+    },
     "preposition_drop": {
         "variants": [
             "preposition_dropped_without_determiner",
