@@ -84,12 +84,12 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 21,quantifier,bare_people_kde194,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
 22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,wanting,I'm wanting a new shirt.,1
 22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,want,I want a new shirt.,1
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,innit,"That's our bus, innit?",
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,isnt,"That's our bus, isn't it?",
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,aint,"That's our bus, ain't it?",
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,arent,"That's our bus, aren't it?",
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,int,"That's our bus, in't it?",
-23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,ent,"That's our bus, en't it?",
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,innit,"That's our bus, innit?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,isnt,"That's our bus, isn't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,aint,"That's our bus, ain't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,arent,"That's our bus, aren't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,int,"That's our bus, in't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,ent,"That's our bus, en't it?",1
 24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=BATH≠TRAP,"The same as the vowel of ""last"" (and differently to the vowel of ""trap"").",1
 24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=CLOTH≠LOT,"The same as the vowel of ""cloth"" (and differently to the vowel of ""lot"").",1
 24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=DRESS,"The same as the vowel of ""dress"".",1
