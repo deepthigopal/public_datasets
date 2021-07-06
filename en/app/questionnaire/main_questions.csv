@@ -141,3 +141,147 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',myseln,myseln,1
 34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysels,mysels,1
 34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysen,mysen,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursel,oursel,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourself,ourself,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselfs,ourselfs,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourseln,ourseln,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselns,ourselns,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursels,oursels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselves,ourselves,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursen,oursen,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursens,oursens,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',us,us,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussel,ussel,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usself,usself,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usselfs,usselfs,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussels,ussels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usselves,usselves,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussen,ussen,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussens,ussens,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',wesels,wesels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',weselves,weselves,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?','ee,'ee,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',deesel,deesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasel,thasel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thaself,thaself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thaseln,thaseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasels,thasels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasen,thasen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesel,theesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theeself,theeself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theeseln,theeseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesels,theesels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesen,theesen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thysen,thysen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yesel,yesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yeself,yeself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',you,you,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursel,yoursel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourself,yourself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselfs,yourselfs,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourseln,yourseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursels,yoursels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselt,yourselt,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselve,yourselve,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselves,yourselves,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursen,yoursen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?','ee,'ee,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',deesel,deesel,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',theesen,theesen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',you,you,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursel,yoursel,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourself,yourself,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourselfs,yourselfs,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursels,yoursels,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourselves,yourselves,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursen,yoursen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursens,yoursens,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yous,yous,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',her,her,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersel,hersel,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herself,herself,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herseln,herseln,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herselve,herselve,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersen,hersen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,hersen,hersen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,I would avoid using a single word in a context like this,I would avoid using a single word in a context like this,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,demsel,demsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,demsels,demsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsel,emsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emself,emself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsels,emsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsen,emsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,hersel,hersel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,himself,himself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,himsen,himsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsel,theirsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirself,theirself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirselfs,theirselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirseln,theirseln,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsels,theirsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirselves,theirselves,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsen,theirsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsens,theirsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,them,them,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsel,themsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themself,themself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselfs,themselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselns,themselns,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsels,themsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselves,themselves,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsen,themsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsens,themsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theysen,theysen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,I would avoid using a single word in a context like this,I would avoid using a single word in a context like this,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,demsel,demsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,demsels,demsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emsel,emsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emself,emself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emselves,emselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,him,him,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,himself,himself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsel,theirsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirself,theirself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselfs,theirselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirseln,theirseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselns,theirselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsels,theirsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselves,theirselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsen,theirsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsens,theirsens,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,them,them,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsel,themsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themself,themself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselfs,themselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themseln,themseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselns,themselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsels,themsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselves,themselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsen,themsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsens,themsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emself,emself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emselfs,emselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emsels,emsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emselves,emselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emsens,emsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsel,theirsel,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirself,theirself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselfs,theirselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirseln,theirseln,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselns,theirselns,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsels,theirsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselves,theirselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsen,theirsen,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsens,theirsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',them,them,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsel,themsel,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themself,themself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselfs,themselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themseln,themseln,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselns,themselns,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsels,themsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselves,themselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsen,themsen,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsens,themsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theyselves,theyselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theysens,theysens,1
