@@ -90,24 +90,24 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,arent,"That's our bus, aren't it?",1
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,int,"That's our bus, in't it?",1
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,ent,"That's our bus, en't it?",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=BATH≠TRAP,"The same as the vowel of ""last"" (and differently to the vowel of ""trap"").",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=CLOTH≠LOT,"The same as the vowel of ""cloth"" (and differently to the vowel of ""lot"").",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=DRESS,"The same as the vowel of ""dress"".",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=FACE,"The same as the vowel of ""face"".",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=KIT,"The same as the vowel of ""kit"".",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=LOT,"The same as the vowel of ""lot"".",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?","FATHER=PALM≠BATH,TRAP","The same as the vowel of ""palm"" (and differently to the vowels of ""last"" and ""trap"").",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=SQUARE,"The same as the vowel of ""square"".",1
-24,father_vowel,father_vowel_kde,"How do you pronounce the vowel of the first syllable of ""father""?",FATHER=TRAP,"The same as the vowel of ""trap"".",1
-25,kl_tl,kl_tl_kde,"How do you pronounce the first consonant of ""clap""?",kl,"With a ""k"" sound as in ""cap"", followed by an ""l"".",1
-25,kl_tl,kl_tl_kde,"How do you pronounce the first consonant of ""clap""?",tl,"With a ""t"" sound as in ""tap"", followed by an ""l"".",1
-26,kw_tw,kw_tw_kde,"How do you pronounce the first two letters of ""quilt""?",kw,"With a ""kw"" sound, like in ""quiver"".",1
-26,kw_tw,kw_tw_kde,"How do you pronounce the first two letters of ""quilt""?",tw,"With a ""tw"" sound, like in ""twin"".",1
-27,card_cord_merger,card_cord_merger_kde,"Does ""card"" sound the same as ""cord"" when you pronounce them in casual conversation?",merger,"Yes, they are identical.",1
-27,card_cord_merger,card_cord_merger_kde,"Does ""card"" sound the same as ""cord"" when you pronounce them in casual conversation?",no merger,"No, they sound different.",1
-28,wh,wh_kde,"How do you pronounce the word ""whale""?",hw,"Differently to both ""quail"" and ""wail"".",1
-28,wh,wh_kde,"How do you pronounce the word ""whale""?",kw,"Just like ""quail"".",1
-28,wh,wh_kde,"How do you pronounce the word ""whale""?",w,"Just like ""wail"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=BATH≠TRAP,"The same as the vowel of ""last"" (and differently to the vowel of ""trap"").",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=CLOTH≠LOT,"The same as the vowel of ""cloth"" (and differently to the vowel of ""lot"").",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=DRESS,"The same as the vowel of ""dress"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=FACE,"The same as the vowel of ""face"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=KIT,"The same as the vowel of ""kit"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=LOT,"The same as the vowel of ""lot"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,"FATHER=PALM≠BATH,TRAP","The same as the vowel of ""palm"" (and differently to the vowels of ""last"" and ""trap"").",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=SQUARE,"The same as the vowel of ""square"".",1
+24,father_vowel,father_vowel_kde,How do you pronounce the vowel of the first syllable of 'father'?,FATHER=TRAP,"The same as the vowel of ""trap"".",1
+25,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,kl,"With a ""k"" sound as in ""cap"", followed by an ""l"".",1
+25,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,tl,"With a ""t"" sound as in ""tap"", followed by an ""l"".",1
+26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,kw,"With a ""kw"" sound, like in ""quiver"".",1
+26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,tw,"With a ""tw"" sound, like in ""twin"".",1
+27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,merger,"Yes, they are identical.",1
+27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,no merger,"No, they sound different.",1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,hw,"Differently to both ""quail"" and ""wail"".",1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,kw,"Just like ""quail"".",1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,w,"Just like ""wail"".",1
 29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_drop_no_determiner,I'll run shop.,1
 29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_retained,I'll run to the shop.,1
 29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_drop_determiner,I'll run the shop.,1
@@ -118,26 +118,26 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give Jane it tomorrow.,1
 31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to Jane tomorrow. ,1
 31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it Jane tomorrow.,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde131,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",himself,himself,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde132,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",himsel,himsel,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde133,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",hisself,hisself,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde134,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",hissel,hissel,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde136,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",himsen,himsen,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde137,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",NODATA,hissen,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde138,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",NODATA,himseln,1
-32,3sgm. ref. pro. first & second element_object,reflexives_kde138,"Fill in the gap in this sentence: ""He can see ___ in the mirror.""",NODATA,hisseln,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde131,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himself,himself,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde132,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsel,himsel,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde133,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hisself,hisself,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde134,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hissel,hissel,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde136,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsen,himsen,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde137,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hissen,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,himseln,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hisseln,1
 33,do support in neg decl,do_support_indef_negative_kde81,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",dont_have,I don't have it.,1
 33,do support in neg decl,do_support_indef_negative_kde81,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent,I haven’t it.,1
 33,do support in neg decl,do_support_indef_negative_kde81,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent_got,I haven't got it.,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",masel,masel,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",maself,maself,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mesel,mesel,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",meself,meself,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",meseln,meseln,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mesels,mesels,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mesen,mesen,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mysel,mysel,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",myself,myself,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",myseln,myseln,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mysels,mysels,1
-34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,"How would you complete this sentence: ""One of the first things I do when I get up in the morning is wash ___.""",mysen,mysen,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',masel,masel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',maself,maself,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesel,mesel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',meself,meself,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',meseln,meseln,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesels,mesels,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesen,mesen,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysel,mysel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',myself,myself,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',myseln,myseln,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysels,mysels,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysen,mysen,1
