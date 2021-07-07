@@ -285,3 +285,10 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsens,themsens,1
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theyselves,theyselves,1
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theysens,theysens,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",'ee,'ee,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",du,du,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",tha,"tha, ta",1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",thee,thee,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",thou,"thou, thoo",1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",ye,ye,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",you,you,1
