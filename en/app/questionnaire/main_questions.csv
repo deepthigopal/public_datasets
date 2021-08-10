@@ -6,6 +6,7 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_drop_no_determiner,Let’s go straight pub.,1
 2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_retained,Let’s go straight to the pub.,1
 2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_drop_determiner,Let’s go straight the pub.,1
+2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",NODATA,Let’s go straight t' pub.,1
 3,should of vs. should have,should_of_kde164,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_have,You really should have.,1
 3,should of vs. should have,should_of_kde164,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_of,You really should of.,1
 4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,amnt,"I’m right, amn’t I?",1
@@ -47,10 +48,10 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle_were,I were sat there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle_were,I were sitting there forever.,1
-14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle,You were stood right next to me. ,1
-14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",present_participle,You were standing right next to me. ,1
-14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle_was,You was stood right next to me. ,1
-14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",present_participle_was,You was standing right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?""",past_participle,You were stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?""",present_participle,You were standing right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?""",past_participle_was,You was stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?""",present_participle_was,You was standing right next to me. ,1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one.",1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one.",1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one.",1
@@ -66,12 +67,12 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have,I don’t have any.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent,I haven’t any.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got,I haven't got any.,1
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_any,I don't got any.,
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_none,I don't got none.,
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",have_none,I have none. ,
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",got_none,I got none. ,
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_any,I've not got any.,
-18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_none,I've not got none. ,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_any,I don't got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_none,I don't got none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",have_none,I have none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",got_none,I got none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_any,I've not got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_none,I've not got none. ,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
