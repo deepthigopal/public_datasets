@@ -24,10 +24,10 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?,1
 7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?,1
 7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?,1
-,,,,where_about_x,Where about is it?,1
-,,,,where_abouts_x,Where abouts is it?,1
-,,,,where_at_x,Where at is it?,1
-,,,,where_x_abouts,Where's it abouts?,1
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where about is it?,1
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where abouts is it?,1
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where at is it?,1
+7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where's it abouts?,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xing,Her hard work deserves rewarding.,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs Xed,Her hard work deserves rewarded.,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs to be Xed,Her hard work deserves to be rewarded.,1
