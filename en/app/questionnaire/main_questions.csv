@@ -43,10 +43,13 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 12,3sgm. ref. pro. first & second element,reflexives_kde137,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.,1
 12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.,1
 12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.,1
-13,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.,1
-13,was standing vs. was stood (sit),was_stood_sit_kde67,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
-14,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,past_participle,I was stood by the door.,1
-14,was standing vs. was stood (stand),was_stood_stand_kde54,How would you describe it if you were the nearest person to the door?,present_participle,I was standing by the door. ,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle_were,I were sat there forever.,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle,You were stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",present_participle,You were standing right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle_was,You was stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",present_participle_was,You was standing right next to me. ,1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one.",1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one.",1
 15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one.",1
