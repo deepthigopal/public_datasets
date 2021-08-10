@@ -77,13 +77,13 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,so,It's so good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,very,It's very good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,well,It's well good.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,bare,I saw bare people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,a_lot_of,I saw a lot of people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,a_load_of,I saw a load of people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,a_rake_of,I saw a rake of people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,lots_of,I saw lots of people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
-21,quantifier,bare_people,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,bare,I saw bare people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_lot_of,I saw a lot of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_load_of,I saw a load of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_rake_of,I saw a rake of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,lots_of,I saw lots of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
 22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,wanting,I'm wanting a new shirt.,1
 22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,want,I want a new shirt.,1
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,innit,"That's our bus, innit?",1
