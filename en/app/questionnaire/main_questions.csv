@@ -46,6 +46,7 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle_were,I were sat there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle_were,I were sitting there forever.,1
 14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle,You were stood right next to me. ,1
 14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",present_participle,You were standing right next to me. ,1
 14,was standing vs. was stood (stand),was_stood_stand_kde,"""You spotted a friend at a crowded concert, but they didn't notice you. Telling them about it the next day, could you say:""",past_participle_was,You was stood right next to me. ,1
