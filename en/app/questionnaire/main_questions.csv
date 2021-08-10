@@ -59,18 +59,18 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",divnae,I divnae/divnie/divny feel very well. ,1
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",divna,I divna feel very well. ,1
 17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinnit,I dinnit feel very well. ,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have,I don’t have any.,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent,I haven’t any.,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got,I haven't got any.,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_any,I don't got any.,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_none,I don't got none.,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",have_none,I have none. ,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",got_none,I got none. ,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_any,I've not got any.,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_none,I've not got none. ,
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
-18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have,I don’t have any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent,I haven’t any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got,I haven't got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_any,I don't got any.,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_none,I don't got none.,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",have_none,I have none. ,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",got_none,I got none. ,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_any,I've not got any.,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_none,I've not got none. ,
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
 19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?,1
 19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?,1
 19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?,1
