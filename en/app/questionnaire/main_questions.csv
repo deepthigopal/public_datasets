@@ -65,9 +65,11 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
 18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
 18,do support in neg decl,do_support_indef_negative_kde81,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
-19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde22,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?,1
+19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?,1
+19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?,1
+19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?,1
+19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_no,Have we no cheese?,1
+19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_not_got,Have we not got any cheese?,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,bare,It's bare good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,pretty,It's pretty good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde522,You're complimenting a meal. Would you say:,proper,It's proper good.,1
