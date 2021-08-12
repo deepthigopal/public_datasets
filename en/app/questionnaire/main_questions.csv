@@ -80,11 +80,12 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
-19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_no,Have we no cheese?,1
-19,do support in interrogatives,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_not_got,Have we not got any cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",do_not_have,Do we not have any cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",dont_have,Don’t we have any cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",havent_got,Haven’t we got any cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",havent,Haven’t we any cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",have_no,Have we no cheese?,1
+19,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich at a picnic, but all you can find is the bread. Might you say:",have_not_got,Have we not got any cheese?,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,bare,It's bare good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,pretty,It's pretty good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,proper,It's proper good.,1
@@ -316,3 +317,85 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",thou,"thou, thoo",1
 42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",ye,ye,1
 42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",you,you,1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",who,who,1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",which,which,1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",what,what,1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",that,that,1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",(no word),(no word),1
+43,animate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""",whom,whom,1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",who,who,1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",which,which,1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",what,what,1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",that,that,1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",(no word),(no word),1
+44,inanimate_object_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""",(no word),whom,1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",who,who,1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",which,which,1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",what,what,1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",that,that,1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",(no word),(no word),1
+45,animate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""",whom,whom,1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",who,who,1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",which,which,1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",what,what,1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",that,that,1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",(no word),(no word),1
+46,inanimate_object_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""",whom,whom,1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",who,who,1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",which,which,1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",what,what,1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",that,that,1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",(no word),(no word),1
+47,animate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""",whom,whom,1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",who,who,1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",which,which,1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",what,what,1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",that,that,1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",(no word),(no word),1
+48,inanimate_subject_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""",whom,whom,1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",who,who,1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",which,which,1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",what,what,1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",that,that,1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",(no word),(no word),1
+49,animate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""",whom,whom,1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",who,who,1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",which,which,1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",what,what,1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",that,that,1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",(no word),(no word),1
+50,inanimate_subject_non_restrictive_relative,no_data,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",whom,whom,1
+51,promise_control,no_data,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",promise_control,But I promised him to go.,1
+51,promise_control,no_data,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",no_promise_control,But I promised him (that) I'd go.,1
+52,non_quantificatory_never,no_data,"If your friend found the packet of biscuits empty and accused you of taking the last one, would you say:",never,It was never me that ate it.,1
+52,non_quantificatory_never,no_data,"If your friend found the packet of biscuits empty and accused you of taking the last one, would you say:",not,It wasn't me that ate it.,1
+53,window_quantificatory_never,no_data,You want to check whether a friend was out very late or didn't come home at all. Might you say:,never,You mean she never came home all night?,1
+53,window_quantificatory_never,no_data,You want to check whether a friend was out very late or didn't come home at all. Might you say:,not,You mean she didn't come home all night?,1
+54,auxiliary have negative interrogative definite concrete,no_data,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",dont_have,Don't you have the car today?,1
+54,auxiliary have negative interrogative definite concrete,no_data,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",havent,Haven't you the car today?,1
+54,auxiliary have negative interrogative definite concrete,no_data,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",havent_got,Haven't you got the car today?,1
+54,auxiliary have negative interrogative definite concrete,no_data,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",do_not_have,Do you not have the car today?,1
+54,auxiliary have negative interrogative definite concrete,no_data,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",have_not_got,Have you not got the car today?,1
+55,auxiliary have negative interrogative definite abstract,no_data,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",dont_have,Don't you still have the job at Tesco?,1
+55,auxiliary have negative interrogative definite abstract,no_data,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",havent,Haven't you still the job at Tesco?,1
+55,auxiliary have negative interrogative definite abstract,no_data,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",havent_got,Haven't you still got the job at Tesco?,1
+55,auxiliary have negative interrogative definite abstract,no_data,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",do_not_have,Do you not still have the job at Tesco?,1
+55,auxiliary have negative interrogative definite abstract,no_data,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",have_not_got,Have you not still got the job at Tesco?,1
+56,auxiliary have negative indicative definite concrete,no_data,"Your friend asks you for a lift, but your car is at the garage. Would you say:",dont_have,"Sorry, I don't have the car at the moment.",1
+56,auxiliary have negative indicative definite concrete,no_data,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent,"Sorry, I haven't the car at the moment.",1
+56,auxiliary have negative indicative definite concrete,no_data,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent_got,"Sorry, I haven't got the car at the moment.",1
+57,auxiliary have positive interrogative definite concrete,no_data,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,do_have,Do you have the car this weekend?,1
+57,auxiliary have positive interrogative definite concrete,no_data,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,have_got,Have you got the car this weekend?,1
+57,auxiliary have positive interrogative definite concrete,no_data,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,have,Have you the car this weekend?,1
+58,auxiliary have negative indicative definite abstract,no_data,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have the job any more.",1
+58,auxiliary have negative indicative definite abstract,no_data,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't the job any more.",1
+58,auxiliary have negative indicative definite abstract,no_data,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got the job any more.",1
+59,auxiliary have positive interrogative definite abstract,no_data,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,do_have,Do you have the job at the paper still?,1
+59,auxiliary have positive interrogative definite abstract,no_data,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have_got,Have you got the job at the paper still?,1
+59,auxiliary have positive interrogative definite abstract,no_data,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have,Have you the job at the paper still?,1
+60,auxiliary have negative indicative any,no_data,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",dont_have,"Sorry, we don't have any.",1
+60,auxiliary have negative indicative any,no_data,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",havent,"Sorry, we haven't any.",1
+60,auxiliary have negative indicative any,no_data,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",havent_got,"Sorry, we haven't got any.",1
+61,auxiliary have positive interrogative any,no_data,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,do_have,Do we have any cheese?,1
+61,auxiliary have positive interrogative any,no_data,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have_got,Have we got any cheese?,1
+61,auxiliary have positive interrogative any,no_data,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have,Have we any cheese?,1
