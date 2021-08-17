@@ -380,9 +380,13 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job any more.",1
 57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job any more.",1
 57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job any more.",1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job any more.",1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job any more.",1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I've not got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I don't got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't got that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I've not got that job no more.",1
 58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have,Have you that job at the paper still?,1
 58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have_got,Have you got that job at the paper still?,1
 58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,do_have,Do you have that job at the paper still?,1
@@ -427,10 +431,12 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 64,after_volitional,NODATA,,,,1
 65,after_np,NODATA,,,,1
 65,after_np,NODATA,,,,1
-66,inside_of,,,,,1
-66,inside_of,,,,,1
-67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,that,I like that it's easy to use. ,1
-67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,the_fact_that,I like the fact that it's easy to use. ,1
-67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like it being easy to use. ,1
-67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like its being easy to use. ,1
-67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,how,I like how it's easy to use.,1
+66,inside_of,inside_of_kde,"Describing arriving at a rather chilly office, could you say:",inside,It was even colder inside the building.,1
+66,inside_of,inside_of_kde,"Describing arriving at a rather chilly office, could you say:",inside_of,It was even colder inside of the building. ,1
+67,outside_of,outside_of_kde,"Describing a chance meeting with an old friend, could you say:",outside,I saw him outside the pub.,1
+67,outside_of,outside_of_kde,"Describing a chance meeting with an old friend, could you say:",outside_of,I saw him outside of the pub.,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,that,I like that it's easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,the_fact_that,I like the fact that it's easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like it being easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like its being easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,how,I like how it's easy to use.,1
