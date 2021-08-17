@@ -1,0 +1,62 @@
+,question,question_name
+0,1,preposition drop
+4,2,preposition drop (modifier)
+8,3,should of vs. should have
+10,4,amn’t vs. aren’t in tags
+15,5,off of
+17,6,dative alternation
+20,7,locative interrogatives
+29,8,X needs washed (deserve)
+32,9,X needs washed (need)
+35,10,Y needs X washing
+38,11,X needs washed (want)
+41,12,3sgm. ref. pro. first & second element
+49,13,was standing vs. was stood (sit)
+53,14,was standing vs. was stood (stand)
+57,15,after perfective
+60,16,auxiliary doubling
+62,17,doesn't vs. doesnae vs. divn't
+69,18,do support in neg decl
+81,19,auxiliary have negative interrogative definite concrete
+86,20,adjective intensifiers
+101,21,quantifier
+107,22,want_wanting
+109,23,isnt_innit
+115,24,father_vowel
+124,25,kl_tl
+126,26,kw_tw
+128,27,card_cord_merger
+130,28,wh
+133,29,preposition drop_run
+137,30,dative alternation_full_noun_DO
+140,31,dative alternation_full_noun_IO
+143,32,3sgm. ref. pro. first & second element_object
+151,33,do support in neg decl
+154,34,1sg_reflexive_pronoun
+166,35,1pl_reflexive_pronoun
+185,36,2sg_reflexive_pronoun
+210,37,2pl_reflexive_pronoun
+222,38,3sgf_reflexive_pronoun
+228,39,3sgna_reflexive_pronoun
+257,40,3sgnb_reflexive_pronoun
+284,41,3pl_reflexive_pronoun
+310,42,2sg_subject_pronoun
+317,43,animate_object_restrictive_relative
+323,44,inanimate_object_restrictive_relative
+329,45,animate_object_non_restrictive_relative
+335,46,inanimate_object_non_restrictive_relative
+341,47,animate_subject_restrictive_relative
+347,48,inanimate_subject_restrictive_relative
+353,49,animate_subject_non_restrictive_relative
+359,50,inanimate_subject_non_restrictive_relative
+365,51,promise_control
+367,52,non_quantificatory_never
+369,53,window_quantificatory_never
+371,54,auxiliary have negative interrogative definite abstract
+376,55,auxiliary have negative indicative definite concrete
+379,56,auxiliary have positive interrogative definite concrete
+382,57,auxiliary have negative indicative definite abstract
+385,58,auxiliary have positive interrogative definite abstract
+388,59,auxiliary have negative indicative any
+391,60,auxiliary have positive interrogative any
+394,61,auxiliary have negative interrogative any
