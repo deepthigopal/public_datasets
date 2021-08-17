@@ -80,11 +80,11 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",dont_have,Don't you have the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",have_not_got,Have you not got the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",do_not_have,Do you not have the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",havent_got,Haven't you got the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend is part of a car-share scheme, but says she can't give you a lift. Would you say:",havent,Haven't you the car today?,1
+19,auxiliary have negative interrogative definite concrete,NODATA,"""Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:""",dont_have,Don't you have the car today?,1
+19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",have_not_got,Have you not got the car today?,1
+19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",do_not_have,Do you not have the car today?,1
+19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent_got,Haven't you got the car today?,1
+19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent,Haven't you the car today?,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,dead,It's dead good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,bare,It's bare good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,pretty,It's pretty good.,1
@@ -114,10 +114,10 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,int,"That's our bus, in't it?",1
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,arent,"That's our bus, aren't it?",1
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,aint,"That's our bus, ain't it?",1
-24,headed_heading,NODATA,Describing what you'd been doing earlier in the day:,past_participle,I was headed to the shop.,1
-24,headed_heading,NODATA,Describing what you'd been doing earlier in the day:,present_participle,I was heading to the shop.,1
-24,headed_heading,NODATA,Describing what you'd been doing earlier in the day:,past_participle_were,I were headed to the shop.,1
-24,headed_heading,NODATA,Describing what you'd been doing earlier in the day:,present_participle_were,I were heading to the shop.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,past_participle,I was just headed home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,present_participle,I was just heading home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,NODATA,I were just headed home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,NODATA,I were just heading home.,1
 26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,tw,"With a ""tw"" sound, like in ""twin"".",1
 26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,kw,"With a ""kw"" sound, like in ""quiver"".",1
 27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,merger,"Yes, they are identical.",1
@@ -363,36 +363,52 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 52,non_quantificatory_never,NODATA,"If your friend found the packet of biscuits empty and accused you of taking the last one, would you say:",not,It wasn't me that ate it.,1
 53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,not,You mean she didn't come home all night?,1
 53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,never,You mean she never came home all night?,1
-54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",dont_have,Don't you still have the job at Tesco?,1
-54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",have_not_got,Have you not still got the job at Tesco?,1
-54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",havent_got,Haven't you still got the job at Tesco?,1
-54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",havent,Haven't you still the job at Tesco?,1
-54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at Tesco, but she now says she's unemployed. Would you say:",do_not_have,Do you not still have the job at Tesco?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",dont_have,Don't you have that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",have_not_got,Have you not got that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",havent_got,Haven't you got that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",havent,Haven't you that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",do_not_have,Do you not have that job at the supermarket?,1
 55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent_got,"Sorry, I haven't got the car at the moment.",1
 55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent,"Sorry, I haven't the car at the moment.",1
 55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",dont_have,"Sorry, I don't have the car at the moment.",1
-56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,do_have,Do you have the car this weekend?,1
-56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,have_got,Have you got the car this weekend?,1
-56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a lift from a friend who shares a car with her partner. Might you ask:,have,Have you the car this weekend?,1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got the job any more.",1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't the job any more.",1
-57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have the job any more.",1
-58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have,Have you the job at the paper still?,1
-58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have_got,Have you got the job at the paper still?,1
-58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,do_have,Do you have the job at the paper still?,1
-59,auxiliary have negative indicative any,NODATA,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",havent_got,"Sorry, we haven't got any.",1
-59,auxiliary have negative indicative any,NODATA,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",havent,"Sorry, we haven't any.",1
-59,auxiliary have negative indicative any,NODATA,"While at a picnic, you're asked to pass the cheese—which you forgot to bring. Would you say:",dont_have,"Sorry, we don't have any.",1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,do_have,Do you have the car this weekend?,1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,have_got,Have you got the car this weekend?,1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,have,Have you the car this weekend?,1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job any more.",1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have,Have you that job at the paper still?,1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have_got,Have you got that job at the paper still?,1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,do_have,Do you have that job at the paper still?,1
+59,auxiliary have negative indicative any,NODATA,"""You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:""",havent_got,"Sorry, we haven't got any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we haven't any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't have any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"""You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:""",havent_got,"Sorry, we haven't got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we haven't no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't have no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we have no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we've not got any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we've not got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't got any cheese.",1
 60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,do_have,Do we have any cheese?,1
 60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have,Have we any cheese?,1
 60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have_got,Have we got any cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,NODATA,Don't we have no cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent_got,Haven’t we got any cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,havent,Haven’t we any cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_no,Have we no cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,have_not_got,Have we not got any cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,NODATA,Have we not got no cheese?,1
-61,auxiliary have negative interrogative any,do_support_interrogative_kde,You're at a picnic and can't find much to put in your sandwich. You might say:,dont_have,Don’t we have any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,Do we got any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,We got any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,We have any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"""You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:""",NODATA,Don't we have no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",havent_got,Haven’t we got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",havent,Haven’t we any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",have_no,Have we no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",have_not_got,Have we not got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Have we not got no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",dont_have,Don’t we have any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got no cheese?,1
 62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=LOT,The same as 'lot'. ,1
 62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,"FATHER=PALM≠BATH,TRAP",The same as 'palm' (and different from 'bath' and 'trap').  ,1
 62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=SQUARE,The same as 'square'. ,1
