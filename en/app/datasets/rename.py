@@ -9,6 +9,7 @@ for file in files:
 		print file
 		data = pd.read_csv(file)
         print data.columns
+        data = data.loc[:,~data.columns.str.startswith('Unnamed')]
         data.columns = data.columns.str.replace(' ', '_')
         print data.columns
-        data.to_csv(file)
+        data.to_csv(file,index=True)
