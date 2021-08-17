@@ -429,8 +429,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 65,after_np,NODATA,,,,1
 66,inside_of,,,,,1
 66,inside_of,,,,,1
-67,like_that,like_that_kde,"""You're recommending an app that you like to a friend. Could you say:""",that,I like that it's easy to use. ,1
-67,like_that,like_that_kde,"""You're recommending an app that you like to a friend. Could you say:""",the_fact_that,I like the fact that it's easy to use. ,1
-67,like_that,like_that_kde,"""You're recommending an app that you like to a friend. Could you say:""",it_being,I like it being easy to use. ,1
-67,like_that,like_that_kde,"""You're recommending an app that you like to a friend. Could you say:""",it_being,I like its being easy to use. ,1
-67,like_that,like_that_kde,"""You're recommending an app that you like to a friend. Could you say:""",how,I like how it's easy to use.,1
+67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,that,I like that it's easy to use. ,1
+67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,the_fact_that,I like the fact that it's easy to use. ,1
+67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like it being easy to use. ,1
+67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like its being easy to use. ,1
+67,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,how,I like how it's easy to use.,1
