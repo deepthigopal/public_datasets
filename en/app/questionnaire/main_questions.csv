@@ -116,8 +116,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,aint,"That's our bus, ain't it?",1
 24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,past_participle,I was just headed home.,1
 24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,present_participle,I was just heading home.,1
-24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,NODATA,I were just headed home.,1
-24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,NODATA,I were just heading home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,past_participle_were,I were just headed home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,present_participle_were,I were just heading home.,1
 26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,tw,"With a ""tw"" sound, like in ""twin"".",1
 26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,kw,"With a ""kw"" sound, like in ""quiver"".",1
 27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,merger,"Yes, they are identical.",1
@@ -424,3 +424,5 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 64,after_volitional,NODATA,,,,1
 65,after_np,NODATA,,,,1
 65,after_np,NODATA,,,,1
+66,inside_of,,,,,
+66,inside_of,,,,,
