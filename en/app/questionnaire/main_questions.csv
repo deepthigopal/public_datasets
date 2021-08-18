@@ -441,8 +441,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like its being easy to use. ,1
 68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,how,I like how it's easy to use.,1
 69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why,Why did he do that?,1
-69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_continuous,Why did he do that for?,1
-69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_discontinuous,Why for did he do that?,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_discontinuous,Why did he do that for?,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_continuous,Why for did he do that?,1
 69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,what_for,What did he do that for?,1
 70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,was_like,I was like '...',1
 70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,said,I said '...',1
