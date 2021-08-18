@@ -80,11 +80,11 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
 18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"""Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:""",dont_have,Don't you have the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",have_not_got,Have you not got the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",do_not_have,Do you not have the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent_got,Haven't you got the car today?,1
-19,auxiliary have negative interrogative definite concrete,NODATA,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent,Haven't you the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"""Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:""",dont_have,Don't you have the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",have_not_got,Have you not got the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",do_not_have,Do you not have the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent_got,Haven't you got the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent,Haven't you the car today?,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,dead,It's dead good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,bare,It's bare good.,1
 20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,pretty,It's pretty good.,1
