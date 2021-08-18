@@ -39,7 +39,7 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y_needs_X_to_be_Ved,She needs her car to be fixed.,1
 11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xed,The fence wants painted. ,1
 11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xing,The fence wants painting.,1
-11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",NODATA,I wouldn’t say either of these.,1
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",control,I wouldn’t say either of these.,1
 12,3sgm. ref. pro. first & second element,reflexives_kde131,"Describing a home-made cake, would you say: ",himself,He made it himself.,1
 12,3sgm. ref. pro. first & second element,reflexives_kde132,"Describing a home-made cake, would you say: ",himsel,He made it himsel.,1
 12,3sgm. ref. pro. first & second element,reflexives_kde133,"Describing a home-made cake, would you say: ",hisself,He made it hisself.,1
