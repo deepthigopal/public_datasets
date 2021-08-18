@@ -416,15 +416,15 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",dont_have,Don’t we have any cheese?,1
 61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got any cheese?,1
 61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got no cheese?,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=LOT,The same as 'lot'. ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,"FATHER=PALM≠BATH,TRAP",The same as 'palm' (and different from 'bath' and 'trap').  ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=SQUARE,The same as 'square'. ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=KIT,The same as 'kit'. ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=TRAP,The same as 'trap'. ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=CLOTH≠LOT,The same as 'cloth' (and different from 'lot'). ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=BATH≠TRAP,The same as 'last' (and different from 'trap'). ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=FACE,The same as 'face'. ,1
-62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER=DRESS,The same as 'dress'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_LOT,The same as 'lot'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_PALM_BATH_TRAP,The same as 'palm' (and different from 'bath' and 'trap').  ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_SQUARE,The same as 'square'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_KIT,The same as 'kit'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_TRAP,The same as 'trap'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_CLOTH_LOT,The same as 'cloth' (and different from 'lot'). ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_BATH_TRAP,The same as 'last' (and different from 'trap'). ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_FACE,The same as 'face'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_DRESS,The same as 'dress'. ,1
 63,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,tl,"With a ""t"" sound as in ""tap"", followed by an ""l"".",1
 63,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,kl,"With a ""k"" sound as in ""cap"", followed by an ""l"".",1
 64,after_volitional,NODATA,,,,1
