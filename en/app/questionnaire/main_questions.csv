@@ -19,15 +19,15 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her it tomorrow.,1
 6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to her tomorrow. ,1
 6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it her tomorrow.,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where about is it?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where abouts is it?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where at is it?,1
-7,locative interrogatives,location_questions_kde312,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",NODATA,Where's it abouts?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_about_x,Where about is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_abouts_x,Where abouts is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_at_x,Where at is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_abouts,Where's it abouts?,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_Xing,Her hard work deserves rewarding.,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_Xed,Her hard work deserves rewarded.,1
 8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_to_be_Xed,Her hard work deserves to be rewarded.,1
