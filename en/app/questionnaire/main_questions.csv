@@ -362,8 +362,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""",which,which,1
 51,promise_control,NODATA,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",no_promise_control,But I promised him (that) I'd go.,1
 51,promise_control,NODATA,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",promise_control,But I promised him to go.,1
-52,non_quantificatory_never,NODATA,"If your friend found the packet of biscuits empty and accused you of taking the last one, would you say:",never,It was never me that ate it.,1
-52,non_quantificatory_never,NODATA,"If your friend found the packet of biscuits empty and accused you of taking the last one, would you say:",not,It wasn't me that ate it.,1
+52,non_quantificatory_never,NODATA,"Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:",never,My son never broke your window.,1
+52,non_quantificatory_never,NODATA,"Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:",not,My son didn't break your window.,1
 53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,not,You mean she didn't come home all night?,1
 53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,never,You mean she never came home all night?,1
 54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",dont_have,Don't you have that job at the supermarket?,1
