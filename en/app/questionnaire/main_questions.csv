@@ -223,62 +223,60 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersen,hersen,1
 38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herself,herself,1
 38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersel,hersel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,I_would_avoid_using_a_single_word_in_a_context_like_this,I would avoid using a single word in a context like this,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsels,themsels,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselves,themselves,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsen,themsen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsels,emsels,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselfs,themselfs,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themself,themself,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsen,theirsen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsel,themsel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,them,them,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsens,theirsens,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theysen,theysen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,hersen,hersen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themselns,themselns,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,demsel,demsel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,demsels,demsels,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsel,emsel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emself,emself,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,themsens,themsens,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,emsen,emsen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,hersel,hersel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,himself,himself,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,himsen,himsen,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsel,theirsel,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirself,theirself,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirselfs,theirselfs,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirseln,theirseln,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirsels,theirsels,1
-39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,***,theirselves,theirselves,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsels,themsels,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsen,theirsen,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsens,theirsens,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,them,them,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsel,themsel,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themself,themself,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselfs,themselfs,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselns,themselns,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themseln,themseln,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsens,themsens,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themselves,themselves,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,themsen,themsen,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,I_would_avoid_using_a_single_word_in_a_context_like_this,I would avoid using a single word in a context like this,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,demsel,demsel,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,demsels,demsels,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emsel,emsel,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emself,emself,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,emselves,emselves,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,him,him,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,himself,himself,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsel,theirsel,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirself,theirself,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselfs,theirselfs,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirseln,theirseln,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselns,theirselns,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirsels,theirsels,1
-40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,***,theirselves,theirselves,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',avoid,"I would avoid using a 'they' in a context like this and would say 'he or she', or something similar",1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsels,themsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselves,themselves,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsen,themsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsels,emsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselfs,themselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themself,themself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsen,theirsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsel,themsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',them,them,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsens,theirsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theysen,theysen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',hersen,hersen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselns,themselns,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',demsel,demsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',demsels,demsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsel,emsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emself,emself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsens,themsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsen,emsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',hersel,hersel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',himself,himself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',himsen,himsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsel,theirsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirself,theirself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirselfs,theirselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirseln,theirseln,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsels,theirsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirselves,theirselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsels,themsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsen,theirsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsens,theirsens,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",them,them,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsel,themsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themself,themself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselfs,themselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselns,themselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themseln,themseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsens,themsens,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselves,themselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsen,themsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",avoid,I would avoid using 'they'/'them' pronouns in this situation,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",demsel,demsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",demsels,demsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emsel,emsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emself,emself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emselves,emselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsel,theirsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirself,theirself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselfs,theirselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirseln,theirseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselns,theirselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsels,theirsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselves,theirselves,1
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emselves,emselves,1
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirseln,theirseln,1
 41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsens,themsens,1
@@ -448,3 +446,20 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,said,I said '...',1
 70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,went,I went '...',1
 70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,this_is,This is me '...',1
+71,3sgna_object_pronoun,NODATA,"Your friend asks about someone who served you in a cafe, but you don't remember the encounter. Could you say:",they,I don't remember what they looked like.,1
+71,3sgna_object_pronoun,NODATA,"Your friend asks about someone who served you in a cafe, but you don't remember the encounter. Could you say:",avoid_he_or_she,I don't remember what he or she looked like.,1
+71,3sgna_object_pronoun,NODATA,"Your friend asks about someone who served you in a cafe, but you don't remember the encounter. Could you say:",avoid_the_person,I don't remember what the person looked like.,1
+72,3sgnb_object_pronoun,NODATA,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.',comfortable,I would say this.,1
+72,3sgnb_object_pronoun,NODATA,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.',awkward,"I would say this, but it sounds awkward.",1
+72,3sgnb_object_pronoun,NODATA,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.',avoid_the_person,"I've heard other people say things like this, but I would avoid it myself.",1
+72,3sgnb_object_pronoun,NODATA,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.',avoid_he_or_she,I would avoid using 'they'/'them' pronouns in this situation and would use 'he' or 'she' instead.,1
+72,3sgnb_object_pronoun,NODATA,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.',avoid_pronouns,I would avoid using any pronouns in this situation.,1
+73,3sgm_hypothetical_reflexive_pronoun,NODATA,What words might you use in the gap in this sentence: 'Imagine if some random man pushed you out of the queue and threw _____ off the diving board in front of you?',themself,"themself, theirself, etc.",1
+73,3sgm_hypothetical_reflexive_pronoun,NODATA,What words might you use in the gap in this sentence: 'Imagine if some random man pushed you out of the queue and threw _____ off the diving board in front of you?',themselves,"themselves, theirselves, etc.",1
+73,3sgm_hypothetical_reflexive_pronoun,NODATA,What words might you use in the gap in this sentence: 'Imagine if some random man pushed you out of the queue and threw _____ off the diving board in front of you?',himself,"himself, hisself, etc.",1
+74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",done,I done it yesterday.,1
+74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",did,I did it yesterday.,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.'",drunk,drunk,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.'",drank,drank,1
+76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drunk,drunk,1
+76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drank,drank,1
