@@ -459,8 +459,8 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 73,3sgm_hypothetical_reflexive_pronoun,NODATA,What words might you use in the gap in this sentence: 'Imagine if some random man pushed you out of the queue and threw _____ off the diving board in front of you?',himself,"himself, hisself, etc.",1
 74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",done,I done it yesterday.,1
 74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",did,I did it yesterday.,1
-75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.'",drunk,drunk,1
-75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.'",drank,drank,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>",drunk,drunk,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>",drank,drank,1
 76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drunk,drunk,1
 76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drank,drank,1
 77,go_preterite_participle,go_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'",gone,gone,1
