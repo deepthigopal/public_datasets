@@ -463,3 +463,5 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.'",drank,drank,1
 76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drunk,drunk,1
 76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drank,drank,1
+77,go_preterite_participle,go_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'",gone,gone,1
+77,go_preterite_participle,go_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'",went,went,1
