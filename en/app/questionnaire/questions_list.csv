@@ -1,81 +1,78 @@
-question,question_name,question_text
-1,preposition drop,You’re suggesting to friends that it’s time for a drink. 
-2,preposition drop (modifier),"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:"
-3,should of vs. should have,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:"
-4,amn’t vs. aren’t in tags,Which of these might you end an argument by saying?
-5,off of,You're cross with the dog for lying on the bed again. Could you say:
-6,dative alternation,"If you were planning to return a book you had borrowed, would you say:"
-7,location questions,"If a friend asked to meet you at a restaurant you didn’t know, would you say:"
-8,X needs washed (deserve),"Discussing a brilliant but unrecognised friend, would you say:"
-9,X needs washed (need),"If you noticed that your hair was getting greasy, would you say:"
-10,Y needs X washing,"If your friend was stranded because her car had broken down, would you say:"
-11,X needs washed (want),"You notice that the paint is flaking off your fence, would you say: "
-12,3sgm. ref. pro. first & second element,"Describing a home-made cake, would you say: "
-13,was standing vs. was stood (sit),How would you describe waiting too long at the dentist’s?
-14,was standing vs. was stood (stand),You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?
-15,after perfective,"You drink a cup of tea, and then someone offers you another one. How do you refuse?"
-16,auxiliary doubling,A friend arrives just as you're sitting down for a meal. Would you say:
-17,doesn't vs. doesnae vs. divn't,"If you were feeling ill, would you say: "
-18,do support in neg decl,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?"
-19,auxiliary have negative interrogative definite concrete,"""Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:"""
-19,auxiliary have negative interrogative definite concrete,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:"
-20,adjective intensifiers,You're complimenting a meal. Would you say:
-21,quantifier,You're describing a trip to a crowded shop. Could you say:
-22,want_wanting,A friend asks you what you're thinking about buying for yourself. Could you say:
-23,isnt_innit,You're heading into town with a friend. Could you say:
-24,headed_heading,You bump into a friend on the street and he asks you what you're up to. 
-25,down the pub vs. at vs. in,"If you were going to watch the football with some friends, which of these could you use to describe where you were going?"
-26,kw_tw,How do you pronounce the first two letters of 'quilt'?
-27,card_cord_merger,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?
-28,wh,How do you pronounce the word 'whale'?
-29,preposition drop_run,You're offering to pick something up from the local shop in a hurry. Could you say:
-30,dative alternation_full_noun_DO,"If you were planning to return a book you had borrowed, would you say:"
-31,dative alternation_full_noun_IO,"If you were planning to return a book you had borrowed, would you say:"
-32,3sgm. ref. pro. first & second element_object,Fill in the gap in this sentence: 'He can see ___ in the mirror.'
-33,do support in neg decl,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:"
-34,1sg_reflexive_pronoun,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'
-35,1pl_reflexive_pronoun,How would you complete this sentence: 'We often don't see ___ as others see us.'
-36,2sg_reflexive_pronoun,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'
-37,2pl_reflexive_pronoun,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'
-38,3sgf_reflexive_pronoun,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'
-39,3sgna_reflexive_pronoun,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'
-40,3sgnb_reflexive_pronoun,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'"
-41,3pl_reflexive_pronoun,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'
-42,2sg_subject_pronoun,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'"
-43,animate_object_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?"""
-44,inanimate_object_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want."""
-45,animate_object_non_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight."""
-46,inanimate_object_non_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better."""
-47,animate_subject_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday."""
-48,inanimate_subject_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye."""
-49,animate_subject_non_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight."""
-50,inanimate_subject_non_restrictive_relative,"What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better."""
-51,promise_control,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:"
-52,non_quantificatory_never,"Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:"
-53,window_quantificatory_never,You want to check whether a friend was out very late or didn't come home at all. Might you say:
-54,auxiliary have negative interrogative definite abstract,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:"
-55,auxiliary have negative indicative definite concrete,"Your friend asks you for a lift, but your car is at the garage. Would you say:"
-56,auxiliary have positive interrogative definite concrete,You are angling for a lift from a friend who shares a car with her partner. Might you ask:
-57,auxiliary have negative indicative definite abstract,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:"
-58,auxiliary have positive interrogative definite abstract,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:
-59,auxiliary have negative indicative any,"""You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:"""
-59,auxiliary have negative indicative any,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:"
-60,auxiliary have positive interrogative any,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:
-61,auxiliary have negative interrogative any,"""You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:"""
-61,auxiliary have negative interrogative any,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:"
-62,father_vowel,How do you pronounce the vowel in the first syllable of 'father'?
-63,kl_tl,How do you pronounce the first consonant of 'clap'?
-64,after_volitional,
-65,after_np,
-66,inside_of,"Describing arriving at a rather chilly office, could you say:"
-67,outside_of,"Describing a chance meeting with an old friend, could you say:"
-68,like_that,You're recommending an app that you like to a friend. Could you say:
-69,why_for,You're surprised by something that you've just heard a friend did yesterday. Could you say: 
-70,quotatives,How could you tell a friend about something you'd said earlier?
-71,3sgna_object_pronoun,"Your friend asks about someone who served you in a cafe, but you don't remember the encounter. Could you say:"
-72,3sgnb_object_pronoun,Your friend asks to be referred to with 'they'/'them' pronouns. Would you use a sentence like 'They spoke to me yesterday.'
-73,3sgm_hypothetical_reflexive_pronoun,What words might you use in the gap in this sentence: 'Imagine if some random man pushed you out of the queue and threw _____ off the diving board in front of you?'
-74,do_preterite,"A friend reminds you that you promised to send them something, but you put it in the post yesterday."
-75,drink_preterite,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>"
-76,drink_preterite_participle,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'"
-77,go_preterite_participle,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'"
+"question","question_name","question_text"
+1,"preposition drop","You’re suggesting to friends that it’s time for a drink. "
+2,"preposition drop (modifier)","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:"
+3,"should of vs. should have","If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:"
+4,"amn’t vs. aren’t in tags","Which of these might you end an argument by saying?"
+5,"off of","You're cross with the dog for lying on the bed again. Could you say:"
+6,"dative alternation","If you were planning to return a book you had borrowed, would you say:"
+7,"location questions","If a friend asked to meet you at a restaurant you didn’t know, would you say:"
+8,"X needs washed (deserve)","Discussing a brilliant but unrecognised friend, would you say:"
+9,"X needs washed (need)","If you noticed that your hair was getting greasy, would you say:"
+10,"Y needs X washing","If your friend was stranded because her car had broken down, would you say:"
+11,"X needs washed (want)","You notice that the paint is flaking off your fence, would you say: "
+12,"3sgm. ref. pro. first & second element","Describing a home-made cake, would you say: "
+13,"was standing vs. was stood (sit)","How would you describe waiting too long at the dentist’s?"
+14,"was standing vs. was stood (stand)","You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?"
+15,"after perfective","You drink a cup of tea, and then someone offers you another one. How do you refuse?"
+16,"auxiliary doubling","A friend arrives just as you're sitting down for a meal. Would you say:"
+17,"doesn't vs. doesnae vs. divn't","If you were feeling ill, would you say: "
+18,"do support in neg decl","Someone asks you to lend them some money, but you didn’t bring any. What do you say?"
+19,"auxiliary have negative interrogative definite concrete","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:"
+20,"adjective intensifiers","You're complimenting a meal. Would you say:"
+21,"quantifier","You're describing a trip to a crowded shop. Could you say:"
+22,"want_wanting","A friend asks you what you're thinking about buying for yourself. Could you say:"
+23,"isnt_innit","You're heading into town with a friend. Could you say:"
+24,"headed_heading","You bump into a friend on the street and he asks you what you're up to. "
+25,"down the pub vs. at vs. in","If you were going to watch the football with some friends, which of these could you use to describe where you were going?"
+26,"kw_tw","How do you pronounce the first two letters of 'quilt'?"
+27,"card_cord_merger","Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?"
+28,"wh","How do you pronounce the word 'whale'?"
+29,"preposition drop_run","You're offering to pick something up from the local shop in a hurry. Could you say:"
+30,"dative alternation_full_noun_DO","If you were planning to return a book you had borrowed, would you say:"
+31,"dative alternation_full_noun_IO","If you were planning to return a book you had borrowed, would you say:"
+32,"3sgm. ref. pro. first & second element_object","Fill in the gap in this sentence: 'He can see ___ in the mirror.'"
+33,"do support in neg decl","At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:"
+34,"1sg_reflexive_pronoun","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'"
+35,"1pl_reflexive_pronoun","How would you complete this sentence: 'We often don't see ___ as others see us.'"
+36,"2sg_reflexive_pronoun","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'"
+37,"2pl_reflexive_pronoun","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'"
+38,"3sgf_reflexive_pronoun","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'"
+39,"3sgna_reflexive_pronoun","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'"
+40,"3sgnb_reflexive_pronoun","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'"
+41,"3pl_reflexive_pronoun","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'"
+42,"2sg_subject_pronoun","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'"
+43,"animate_object_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?"""
+44,"inanimate_object_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want."""
+45,"animate_object_non_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight."""
+46,"inanimate_object_non_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better."""
+47,"animate_subject_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday."""
+48,"inanimate_subject_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye."""
+49,"animate_subject_non_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight."""
+50,"inanimate_subject_non_restrictive_relative","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better."""
+51,"promise_control","If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:"
+52,"non_quantificatory_never","Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:"
+53,"window_quantificatory_never","You want to check whether a friend was out very late or didn't come home at all. Might you say:"
+54,"auxiliary have negative interrogative definite abstract","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:"
+55,"auxiliary have negative indicative definite concrete","Your friend asks you for a lift, but your car is at the garage. Would you say:"
+56,"auxiliary have positive interrogative definite concrete","You are angling for a lift from a friend who shares a car with her partner. Might you ask:"
+57,"auxiliary have negative indicative definite abstract","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:"
+58,"auxiliary have positive interrogative definite abstract","You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:"
+59,"auxiliary have negative indicative any","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:"
+60,"auxiliary have positive interrogative any","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:"
+61,"auxiliary have negative interrogative any","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:"
+62,"father_vowel","How do you pronounce the vowel in the first syllable of 'father'?"
+63,"kl_tl","How do you pronounce the first consonant of 'clap'?"
+64,"after_volitional","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:"
+65,"after_np","You ask your neighbour if they know a good decorator. When they say 'Why are you asking?', how do you reply?"
+66,"inside_of","Describing arriving at a rather chilly office, could you say:"
+67,"outside_of","Describing a chance meeting with an old friend, could you say:"
+68,"like_that","You're recommending an app that you like to a friend. Could you say:"
+69,"why_for","You're surprised by something that you've just heard a friend did yesterday. Could you say: "
+70,"quotatives","How could you tell a friend about something you'd said earlier?"
+74,"do_preterite","A friend reminds you that you promised to send them something, but you put it in the post yesterday."
+75,"drink_preterite","What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>"
+76,"drink_preterite_participle","What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'"
+77,"go_preterite_participle","What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'"
+78,"go_preterite_participle_modal","Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.'"
+79,"fuck_off_modifier_size_adj","Describing an intimidatingly large car, would you say:"
+80,"fuck_off_modifier_other_adj","Describing a very large, black rat, would you say:"
