@@ -130,9 +130,9 @@
 26,"kw_tw","kw_tw_kde","How do you pronounce the first two letters of 'quilt'?","kw","With a 'kw' sound, like in 'quiver'.",1
 27,"card_cord_merger","card_cord_merger_kde","Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?","merger","Yes, they are identical.",1
 27,"card_cord_merger","card_cord_merger_kde","Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?","no_merger","No, they sound different.",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","w","Just like ""wail"".",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","kw","Just like ""quail"".",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","hw","Differently to both ""quail"" and ""wail"".",1
+28,"wh","wh_kde","How do you pronounce the word 'whale'?","w","Just like 'wail'.",1
+28,"wh","wh_kde","How do you pronounce the word 'whale'?","kw","Just like 'quail'.",1
+28,"wh","wh_kde","How do you pronounce the word 'whale'?","hw","Differently to both 'quail' and 'wail'.",1
 29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","NODATA","I'll run t'shop.",1
 29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_retained","I'll run to the shop.",1
 29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner","I'll run the shop.",1
@@ -315,54 +315,54 @@
 42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","thou","thou, thoo",1
 42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","ye","ye",1
 42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","you","you",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","what","what",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","that","that",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","(no_word)","(no word)",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","who","who",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","which","which",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""Is that the person ____ you met?""","whom","whom",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","(no_word)","whom",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","(no_word)","(no word)",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","that","that",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","what","what",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","which","which",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ I want.""","who","who",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","whom","whom",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","what","what",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","(no_word)","(no word)",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","which","which",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","that","that",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend—____ I met years ago—is coming over tonight.""","who","who",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","(no_word)","(no word)",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","that","that",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","what","what",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","who","who",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","whom","whom",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ I don't think you'll guess—is much better.""","which","which",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","that","that",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","who","who",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","what","what",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","which","which",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","(no_word)","(no word)",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""This is the person _____ met you at the airport yesterday.""","whom","whom",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","what","what",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","whom","whom",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","that","that",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","(no_word)","(no word)",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","who","who",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""That car's the one ____ really caught my eye.""","which","which",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","who","who",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","whom","whom",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","that","that",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","(no_word)","(no word)",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","what","what",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My friend— ____ met you from the airport last week—is coming over tonight.""","which","which",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","who","who",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","whom","whom",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","that","that",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","(no_word)","(no word)",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","what","what",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: ""My idea—____ will blow your mind—is much better.""","which","which",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","what","what",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","that","that",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","(no_word)","(no word)",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","who","who",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","which","which",1
+43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","whom","whom",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","(no_word)","whom",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","(no_word)","(no word)",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","that","that",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","what","what",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","which","which",1
+44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","who","who",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","whom","whom",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","what","what",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","(no_word)","(no word)",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","which","which",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","that","that",1
+45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","who","who",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","(no_word)","(no word)",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","that","that",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","what","what",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","who","who",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","whom","whom",1
+46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","which","which",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","that","that",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","who","who",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","what","what",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","which","which",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","(no_word)","(no word)",1
+47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","whom","whom",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","what","what",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","whom","whom",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","that","that",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","(no_word)","(no word)",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","who","who",1
+48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","which","which",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","who","who",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","whom","whom",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","that","that",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","(no_word)","(no word)",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","what","what",1
+49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","which","which",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","who","who",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","whom","whom",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","that","that",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","(no_word)","(no word)",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","what","what",1
+50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","which","which",1
 51,"promise_control","NODATA","If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:","no_promise_control","But I promised him (that) I'd go.",1
 51,"promise_control","NODATA","If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:","promise_control","But I promised him to go.",1
 52,"non_quantificatory_never","NODATA","Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:","never","My son never broke your window.",1
@@ -428,8 +428,8 @@
 62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_DRESS","The same as 'dress'. ",1
 62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_SQUARE","The same as 'square'. ",1
 62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_KIT","The same as 'kit'. ",1
-63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","tl","With a ""t"" sound as in ""tap"", followed by an ""l"".",1
-63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","kl","With a ""k"" sound as in ""cap"", followed by an ""l"".",1
+63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","tl","With a 't' sound as in 'tap', followed by an 'l'.",1
+63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","kl","With a 'k' sound as in 'cap', followed by an 'l'.",1
 64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","after_Ving","I'm after buying some towels.",1
 64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","looking_to_V","I'm looking to buy some towels.",1
 64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","want_to_V","I want to buy some towels.",1
