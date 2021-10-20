@@ -485,10 +485,10 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 81,daps_plimsolls,daps_plimsolls_kde,What do you call the canvas shoes often worn by children in school or for PE?,gymmies,gymmies,1
 81,daps_plimsolls,daps_plimsolls_kde,What do you call the canvas shoes often worn by children in school or for PE?,gutties,gutties,1
 81,daps_plimsolls,daps_plimsolls_kde,What do you call the canvas shoes often worn by children in school or for PE?,guddies,guddies,1
-82,forget_ppt,forget_ppt_kde,"What word would you use in a sentence like this: ""I had _____ all about that.""",forgotten,forgotten,1
-82,forget_ppt,forget_ppt_kde,"What word would you use in a sentence like this: ""I had _____ all about that.""",forgot,forgot,1
-82,forget_ppt,forget_ppt_kde,"What word would you use in a sentence like this: ""I had _____ all about that.""",forget,forget,1
-82,forget_ppt,forget_ppt_kde,"What word would you use in a sentence like this: ""I had _____ all about that.""",forgetten,forgetten,1
+82,forget_ppt,forget_ppt_kde,"""What word would you use in a sentence like this: I had _____ all about that.""",forgotten,forgotten,1
+82,forget_ppt,forget_ppt_kde,"""What word would you use in a sentence like this: I had _____ all about that.""",forgot,forgot,1
+82,forget_ppt,forget_ppt_kde,"""What word would you use in a sentence like this: I had _____ all about that.""",forget,forget,1
+82,forget_ppt,forget_ppt_kde,"""What word would you use in a sentence like this: I had _____ all about that.""",forgetten,forgetten,1
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jab,flu jab,1
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jag,flu jag,1
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,shot,flu shot,1
