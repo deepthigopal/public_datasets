@@ -11,7 +11,7 @@ for file in files:
 		data = data.fillna('no value')
         cols = [item for item in data.columns if item not in ['index','placename','longitude','latitude']]
         for item in cols:
-            if min(data[item]) < 0.01:
+            if min(data[item]) != 0.01:
                 data[item] = (data[item] - min(data[item]))/(max(data[item])-min(data[item]))
                 data.loc[data[item]<0.01,item] = 0.01
         data.to_csv(file)
