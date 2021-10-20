@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 question,question_name,dataset,question_text,variant,variant_text,weight
 1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,preposition_drop_no_determiner,Let’s go pub.,1
 1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,preposition_retained,Let’s go to the pub. ,1
@@ -493,494 +492,493 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jab,flu jab,1
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jag,flu jag,1
 83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,shot,flu shot,1
-=======
-"question","question_name","dataset","question_text","variant","variant_text","weight"
-1,"preposition drop","preposition_drop_kde86","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_no_determiner","Let’s go pub.",1
-1,"preposition drop","preposition_drop_kde86","You’re suggesting to friends that it’s time for a drink. ","preposition_retained","Let’s go to the pub. ",1
-1,"preposition drop","preposition_drop_kde86","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_determiner","Let’s go the pub. ",1
-1,"preposition drop","preposition_drop_kde86","You’re suggesting to friends that it’s time for a drink. ","NODATA","Let’s go t’pub. ",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde32","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_no_determiner","Let’s go straight pub.",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde32","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_retained","Let’s go straight to the pub.",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde32","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_determiner","Let’s go straight the pub.",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde32","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","NODATA","Let’s go straight t' pub.",1
-3,"should of vs. should have","should_of_kde","If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:","should_have","You really should have.",1
-3,"should of vs. should have","should_of_kde","If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:","should_of","You really should of.",1
-4,"amn’t vs. aren’t in tags","amnt_arent_kde42","Which of these might you end an argument by saying?","amnt","I’m right, amn’t I?",1
-4,"amn’t vs. aren’t in tags","amnt_arent_kde42","Which of these might you end an argument by saying?","arent","I’m right, aren’t I?",1
-4,"amn’t vs. aren’t in tags","amnt_arent_kde42","Which of these might you end an argument by saying?","int","I’m right, in’t I?",1
-4,"amn’t vs. aren’t in tags","amnt_arent_kde42","Which of these might you end an argument by saying?","aint","I’m right, ain’t I? ",1
-4,"amn’t vs. aren’t in tags","amnt_arent_kde42","Which of these might you end an argument by saying?","ent","I’m right, en’t I? ",1
-5,"off of","off_of_kde426","You're cross with the dog for lying on the bed again. Could you say:","off_of","Get off of it!",1
-5,"off of","off_of_kde426","You're cross with the dog for lying on the bed again. Could you say:","off","Get off it!",1
-6,"dative alternation","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","goal_theme_ditransitive","I’ll give her it tomorrow.",1
-6,"dative alternation","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","prepositional_dative","I’ll give it to her tomorrow. ",1
-6,"dative alternation","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","theme_goal_ditransitive","I’ll give it her tomorrow.",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_is_x","Where is it?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_is_x_at","Where’s it at?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_to_is_x","Where to is it?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_x_to","Where’s it to?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_x_about","Where’s it about?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_about_x","Where about is it?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_abouts_x","Where abouts is it?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_at_x","Where at is it?",1
-7,"location questions","location_questions_kde","If a friend asked to meet you at a restaurant you didn’t know, would you say:","where_x_abouts","Where's it abouts?",1
-8,"X needs washed (deserve)","needs_washed_deserve_kde58","Discussing a brilliant but unrecognised friend, would you say:","needs_Xing","Her hard work deserves rewarding.",1
-8,"X needs washed (deserve)","needs_washed_deserve_kde58","Discussing a brilliant but unrecognised friend, would you say:","needs_Xed","Her hard work deserves rewarded.",1
-8,"X needs washed (deserve)","needs_washed_deserve_kde58","Discussing a brilliant but unrecognised friend, would you say:","needs_to_be_Xed","Her hard work deserves to be rewarded.",1
-9,"X needs washed (need)","needs_washed_need_kde119","If you noticed that your hair was getting greasy, would you say:","needs_Xing","My hair needs washing.",1
-9,"X needs washed (need)","needs_washed_need_kde119","If you noticed that your hair was getting greasy, would you say:","needs_Xed","My hair needs washed.",1
-9,"X needs washed (need)","needs_washed_need_kde119","If you noticed that your hair was getting greasy, would you say:","needs_to_be_Xed","My hair needs to be washed.",1
-10,"Y needs X washing","needs_x_washing_kde32","If your friend was stranded because her car had broken down, would you say:","Y_needs_X_Ved","She needs her car fixed.",1
-10,"Y needs X washing","needs_x_washing_kde32","If your friend was stranded because her car had broken down, would you say:","Y_needs_X_Ving","She needs her car fixing.",1
-10,"Y needs X washing","needs_x_washing_kde32","If your friend was stranded because her car had broken down, would you say:","Y_needs_X_to_be_Ved","She needs her car to be fixed.",1
-11,"X needs washed (want)","needs_washed_want_kde73","You notice that the paint is flaking off your fence, would you say: ","needs_Xed","The fence wants painted. ",1
-11,"X needs washed (want)","needs_washed_want_kde73","You notice that the paint is flaking off your fence, would you say: ","needs_Xing","The fence wants painting.",1
-11,"X needs washed (want)","needs_washed_want_kde73","You notice that the paint is flaking off your fence, would you say: ","control","I wouldn’t say either of these.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde131","Describing a home-made cake, would you say: ","himself","He made it himself.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde132","Describing a home-made cake, would you say: ","himsel","He made it himsel.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde133","Describing a home-made cake, would you say: ","hisself","He made it hisself.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde134","Describing a home-made cake, would you say: ","hissel","He made it hissel.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde136","Describing a home-made cake, would you say: ","himsen","He made it himsen.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde137","Describing a home-made cake, would you say: ","NODATA","He made it hissen.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde138","Describing a home-made cake, would you say: ","NODATA","He made it himseln.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde138","Describing a home-made cake, would you say: ","NODATA","He made it hisseln.",1
-13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","past_participle","I was sat there forever.",1
-13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","present_participle","I was sitting there forever.",1
-13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","past_participle_were","I were sat there forever.",1
-13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","present_participle_were","I were sitting there forever.",1
-14,"was standing vs. was stood (stand)","was_stood_stand_kde","You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?","past_participle","You were stood right next to me. ",1
-14,"was standing vs. was stood (stand)","was_stood_stand_kde","You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?","present_participle","You were standing right next to me. ",1
-14,"was standing vs. was stood (stand)","was_stood_stand_kde","You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?","past_participle_was","You was stood right next to me. ",1
-14,"was standing vs. was stood (stand)","was_stood_stand_kde","You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?","present_participle_was","You was standing right next to me. ",1
-15,"after perfective","after_perfective_kde171","You drink a cup of tea, and then someone offers you another one. How do you refuse?","after_perfective","No thanks, I’m after having one.",1
-15,"after perfective","after_perfective_kde171","You drink a cup of tea, and then someone offers you another one. How do you refuse?","after_perfective_with_modifier","No thanks, I'm just after having one.",1
-15,"after perfective","after_perfective_kde171","You drink a cup of tea, and then someone offers you another one. How do you refuse?","control","No thanks, I’ve just had one.",1
-16,"auxiliary doubling","aux_doubling_kde80","A friend arrives just as you're sitting down for a meal. Would you say:","doubled","If I'd've known you were coming, I'd have made more food.",1
-16,"auxiliary doubling","aux_doubling_kde80","A friend arrives just as you're sitting down for a meal. Would you say:","control","If I'd known you were coming, I'd have made more food.",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","dont","I don’t feel very well.",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","dinnae","I dinnae/dinnie/dinny feel very well.",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","dinna","I dinna feel very well. ",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","divnt","I divn’t/diven’t/divin’t feel very well.",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","divnae","I divnae/divnie/divny feel very well. ",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","divna","I divna feel very well. ",1
-17,"doesn't vs. doesnae vs. divn't","doesnt_doesnae_kde228","If you were feeling ill, would you say: ","dinnit","I dinnit feel very well. ",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","dont_have","I don’t have any.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","havent","I haven’t any.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","havent_got","I haven't got any.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","dont_got_any","I don't got any.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","dont_got_none","I don't got none.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","have_none","I have none. ",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","got_none","I got none. ",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","not_got_any","I've not got any.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","not_got_none","I've not got none. ",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","dont_have_negc","I don't have none.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","havent_negc","I haven't none.",1
-18,"do support in neg decl","do_support_indef_negative_kde","Someone asks you to lend them some money, but you didn’t bring any. What do you say?","havent_got_negc","I haven't got none. ",1
-19,"auxiliary have negative interrogative definite concrete","do_support_interrogative_negative_concrete_kde","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:","dont_have","Don't you have the car today?",1
-19,"auxiliary have negative interrogative definite concrete","do_support_interrogative_negative_concrete_kde","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:","have_not_got","Have you not got the car today?",1
-19,"auxiliary have negative interrogative definite concrete","do_support_interrogative_negative_concrete_kde","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:","do_not_have","Do you not have the car today?",1
-19,"auxiliary have negative interrogative definite concrete","do_support_interrogative_negative_concrete_kde","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:","havent_got","Haven't you got the car today?",1
-19,"auxiliary have negative interrogative definite concrete","do_support_interrogative_negative_concrete_kde","Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:","havent","Haven't you the car today?",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","dead","It's dead good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","bare","It's bare good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","pretty","It's pretty good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","proper","It's proper good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","real","It's real good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","rather","It's rather good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","pure","It's pure good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","so","It's so good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","very","It's very good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","well","It's well good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","wicked","It's wicked good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","wild","It's wild good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","really","It's really good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","awful","It's awful good.",1
-20,"adjective intensifiers","intensifiers_adjectival_kde","You're complimenting a meal. Would you say:","right","It's right good.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","a_rake_of","I saw a rake of people there.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","bare","I saw bare people there.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","a_load_of","I saw a load of people there.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","lots_of","I saw lots of people there.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","a_lot_of","I saw a lot of people there.",1
-21,"quantifier","bare_people_kde","You're describing a trip to a crowded shop. Could you say:","loads_of","I saw loads of people there.",1
-22,"want_wanting","want_wanting_kde378","A friend asks you what you're thinking about buying for yourself. Could you say:","wanting","I'm wanting a new shirt.",1
-22,"want_wanting","want_wanting_kde378","A friend asks you what you're thinking about buying for yourself. Could you say:","want","I want a new shirt.",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","innit","That's our bus, innit?",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","ent","That's our bus, en't it?",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","isnt","That's our bus, isn't it?",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","int","That's our bus, in't it?",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","arent","That's our bus, aren't it?",1
-23,"isnt_innit","isnt_innit_kde100","You're heading into town with a friend. Could you say:","aint","That's our bus, ain't it?",1
-24,"headed_heading","headed_kde","You bump into a friend on the street and he asks you what you're up to. ","past_participle","I was just headed home.",1
-24,"headed_heading","headed_kde","You bump into a friend on the street and he asks you what you're up to. ","present_participle","I was just heading home.",1
-24,"headed_heading","headed_kde","You bump into a friend on the street and he asks you what you're up to. ","past_participle_were","I were just headed home.",1
-24,"headed_heading","headed_kde","You bump into a friend on the street and he asks you what you're up to. ","present_participle_were","I were just heading home.",1
-25,"down the pub vs. at vs. in","down_the_pub_kde","If you were going to watch the football with some friends, which of these could you use to describe where you were going?","at","I'm watching it at the pub.",1
-25,"down the pub vs. at vs. in","down_the_pub_kde","If you were going to watch the football with some friends, which of these could you use to describe where you were going?","in","I'm watching it in the pub.",1
-25,"down the pub vs. at vs. in","down_the_pub_kde","If you were going to watch the football with some friends, which of these could you use to describe where you were going?","down","I'm watching it down the pub.",1
-26,"kw_tw","kw_tw_kde","How do you pronounce the first two letters of 'quilt'?","tw","With a 'tw' sound, like in 'twin'.",1
-26,"kw_tw","kw_tw_kde","How do you pronounce the first two letters of 'quilt'?","kw","With a 'kw' sound, like in 'quiver'.",1
-27,"card_cord_merger","card_cord_merger_kde","Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?","merger","Yes, they are identical.",1
-27,"card_cord_merger","card_cord_merger_kde","Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?","no_merger","No, they sound different.",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","w","Just like 'wail'.",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","kw","Just like 'quail'.",1
-28,"wh","wh_kde","How do you pronounce the word 'whale'?","hw","Differently to both 'quail' and 'wail'.",1
-29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","NODATA","I'll run t'shop.",1
-29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_retained","I'll run to the shop.",1
-29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner","I'll run the shop.",1
-29,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_no_determiner","I'll run shop.",1
-30,"dative alternation_full_noun_DO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","prepositional_dative","I’ll give the book to her tomorrow. ",1
-30,"dative alternation_full_noun_DO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","goal_theme_ditransitive","I’ll give her the book tomorrow.",1
-30,"dative alternation_full_noun_DO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","theme_goal_ditransitive","I’ll give the book her tomorrow.",1
-31,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","prepositional_dative","I’ll give it to Jane tomorrow. ",1
-31,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","theme_goal_ditransitive","I’ll give it Jane tomorrow.",1
-31,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","goal_theme_ditransitive","I’ll give Jane it tomorrow.",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde131","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himself","himself",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde138","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","himseln",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde133","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hisself","hisself",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde138","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","hisseln",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde137","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","hissen",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde134","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hissel","hissel",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde136","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himsen","himsen",1
-32,"3sgm. ref. pro. first & second element_object","reflexives_kde132","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himsel","himsel",1
-33,"do support in neg decl","do_support_indef_negative_kde","At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:","dont_have","I don't have it.",1
-33,"do support in neg decl","do_support_indef_negative_kde","At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:","havent_got","I haven't got it.",1
-33,"do support in neg decl","do_support_indef_negative_kde","At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:","havent","I haven’t it.",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mesen","mesen",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","maself","maself",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mesel","mesel",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","meself","meself",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","meseln","meseln",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mesels","mesels",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysel","mysel",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","myseln","myseln",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysels","mysels",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysen","mysen",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","masel","masel",1
-34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","myself","myself",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","oursen","oursen",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","oursens","oursens",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","us","us",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ussel","ussel",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","usself","usself",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","usselfs","usselfs",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ussen","ussen",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","usselves","usselves",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ussels","ussels",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","weselves","weselves",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","wesels","wesels",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ussens","ussens",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","oursel","oursel",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ourself","ourself",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ourselfs","ourselfs",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ourseln","ourseln",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ourselns","ourselns",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","oursels","oursels",1
-35,"1pl_reflexive_pronoun","1pl_reflexive_pronoun_kde","How would you complete this sentence: 'We often don't see ___ as others see us.'","ourselves","ourselves",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yoursels","yoursels",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","theesel","theesel",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourselve","yourselve",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yeself","yeself",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yoursel","yoursel",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yoursen","yoursen",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourselves","yourselves",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourselfs","yourselfs",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourself","yourself",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourseln","yourseln",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","you","you",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yourselt","yourselt",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","'ee","'ee",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","deesel","deesel",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thasel","thasel",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thaself","thaself",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thaseln","thaseln",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thasels","thasels",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thasen","thasen",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","yesel","yesel",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","theeself","theeself",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","theeseln","theeseln",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","theesels","theesels",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","theesen","theesen",1
-36,"2sg_reflexive_pronoun","2sg_reflexive_pronoun_kde","How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?'","thysen","thysen",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yoursels","yoursels",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","deesel","deesel",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","theesen","theesen",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yous","yous",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yoursel","yoursel",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yourselfs","yourselfs",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yoursen","yoursen",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yoursens","yoursens",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yourselves","yourselves",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","you","you",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","yourself","yourself",1
-37,"2pl_reflexive_pronoun","2pl_reflexive_pronoun_kde","How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?'","'ee","'ee",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","herseln","herseln",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","herselve","herselve",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","her","her",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","hersen","hersen",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","herself","herself",1
-38,"3sgf_reflexive_pronoun","3sgf_reflexive_pronoun_kde","How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.'","hersel","hersel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","avoid","I would avoid using a 'they' in a context like this and would say 'he or she', or something similar",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themsels","themsels",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themselves","themselves",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themsen","themsen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","emsels","emsels",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themselfs","themselfs",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themself","themself",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirsen","theirsen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themsel","themsel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","them","them",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirsens","theirsens",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theysen","theysen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","hersen","hersen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themselns","themselns",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","demsel","demsel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","demsels","demsels",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","emsel","emsel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","emself","emself",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","themsens","themsens",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","emsen","emsen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","hersel","hersel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","himself","himself",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","himsen","himsen",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirsel","theirsel",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirself","theirself",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirselfs","theirselfs",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirseln","theirseln",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirsels","theirsels",1
-39,"3sgna_reflexive_pronoun","3sgna_reflexive_pronoun_kde","A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!'","theirselves","theirselves",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themsels","themsels",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirsen","theirsen",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirsens","theirsens",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","them","them",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themsel","themsel",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themself","themself",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themselfs","themselfs",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themselns","themselns",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themseln","themseln",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themsens","themsens",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themselves","themselves",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","themsen","themsen",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","avoid","I would avoid using 'they'/'them' pronouns in this situation",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","demsel","demsel",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","demsels","demsels",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","emsel","emsel",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","emself","emself",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","emselves","emselves",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirsel","theirsel",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirself","theirself",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirselfs","theirselfs",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirseln","theirseln",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirselns","theirselns",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirsels","theirsels",1
-40,"3sgnb_reflexive_pronoun","3sgnb_reflexive_pronoun_kde","You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'","theirselves","theirselves",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","emselves","emselves",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirseln","theirseln",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themsens","themsens",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","emselfs","emselfs",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themselfs","themselfs",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theysens","theysens",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theyselves","theyselves",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themselns","themselns",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themseln","themseln",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themsels","themsels",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themself","themself",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirsel","theirsel",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","emself","emself",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themsen","themsen",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","emsels","emsels",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themsel","themsel",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","emsens","emsens",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","themselves","themselves",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirself","theirself",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirselfs","theirselfs",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","them","them",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirselns","theirselns",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirsels","theirsels",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirselves","theirselves",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirsen","theirsen",1
-41,"3pl_reflexive_pronoun","3pl_reflexive_pronoun_kde","How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.'","theirsens","theirsens",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","'ee","'ee",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","du","du",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","tha","tha, ta",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","thee","thee",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","thou","thou, thoo",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","ye","ye",1
-42,"2sg_subject_pronoun","2sg_subject_pronoun_kde","What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'","you","you",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","what","what",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","that","that",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","(no_word)","(no word)",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","who","who",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","which","which",1
-43,"animate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'","whom","whom",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","(no_word)","whom",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","(no_word)","(no word)",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","that","that",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","what","what",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","which","which",1
-44,"inanimate_object_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'","who","who",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","whom","whom",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","what","what",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","(no_word)","(no word)",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","which","which",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","that","that",1
-45,"animate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'","who","who",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","(no_word)","(no word)",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","that","that",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","what","what",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","who","who",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","whom","whom",1
-46,"inanimate_object_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'","which","which",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","that","that",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","who","who",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","what","what",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","which","which",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","(no_word)","(no word)",1
-47,"animate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'","whom","whom",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","what","what",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","whom","whom",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","that","that",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","(no_word)","(no word)",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","who","who",1
-48,"inanimate_subject_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'","which","which",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","who","who",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","whom","whom",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","that","that",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","(no_word)","(no word)",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","what","what",1
-49,"animate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'","which","which",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","who","who",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","whom","whom",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","that","that",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","(no_word)","(no word)",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","what","what",1
-50,"inanimate_subject_non_restrictive_relative","NODATA","What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'","which","which",1
-51,"promise_control","NODATA","If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:","no_promise_control","But I promised him (that) I'd go.",1
-51,"promise_control","NODATA","If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:","promise_control","But I promised him to go.",1
-52,"non_quantificatory_never","NODATA","Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:","never","My son never broke your window.",1
-52,"non_quantificatory_never","NODATA","Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:","not","My son didn't break your window.",1
-53,"window_quantificatory_never","NODATA","You want to check whether a friend was out very late or didn't come home at all. Might you say:","not","You mean she didn't come home all night?",1
-53,"window_quantificatory_never","NODATA","You want to check whether a friend was out very late or didn't come home at all. Might you say:","never","You mean she never came home all night?",1
-54,"auxiliary have negative interrogative definite abstract","NODATA","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:","dont_have","Don't you have that job at the supermarket?",1
-54,"auxiliary have negative interrogative definite abstract","NODATA","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:","have_not_got","Have you not got that job at the supermarket?",1
-54,"auxiliary have negative interrogative definite abstract","NODATA","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:","havent_got","Haven't you got that job at the supermarket?",1
-54,"auxiliary have negative interrogative definite abstract","NODATA","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:","havent","Haven't you that job at the supermarket?",1
-54,"auxiliary have negative interrogative definite abstract","NODATA","The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:","do_not_have","Do you not have that job at the supermarket?",1
-55,"auxiliary have negative indicative definite concrete","NODATA","Your friend asks you for a lift, but your car is at the garage. Would you say:","havent_got","Sorry, I haven't got the car at the moment.",1
-55,"auxiliary have negative indicative definite concrete","NODATA","Your friend asks you for a lift, but your car is at the garage. Would you say:","havent","Sorry, I haven't the car at the moment.",1
-55,"auxiliary have negative indicative definite concrete","NODATA","Your friend asks you for a lift, but your car is at the garage. Would you say:","dont_have","Sorry, I don't have the car at the moment.",1
-56,"auxiliary have positive interrogative definite concrete","NODATA","You are angling for a lift from a friend who shares a car with her partner. Might you ask:","do_have","Do you have the car this weekend?",1
-56,"auxiliary have positive interrogative definite concrete","NODATA","You are angling for a lift from a friend who shares a car with her partner. Might you ask:","have_got","Have you got the car this weekend?",1
-56,"auxiliary have positive interrogative definite concrete","NODATA","You are angling for a lift from a friend who shares a car with her partner. Might you ask:","have","Have you the car this weekend?",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent_got","Sorry, I haven't got that job any more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent","Sorry, I haven't that job any more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","dont_have","Sorry, I don't have that job any more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent_got","Sorry, I've not got that job any more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent","Sorry, I don't got that job any more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","dont_have","Sorry, I don't got that job no more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent_got","Sorry, I haven't got that job no more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent","Sorry, I haven't that job no more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","dont_have","Sorry, I don't have that job no more.",1
-57,"auxiliary have negative indicative definite abstract","NODATA","Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:","havent_got","Sorry, I've not got that job no more.",1
-58,"auxiliary have positive interrogative definite abstract","NODATA","You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:","have","Have you that job at the paper still?",1
-58,"auxiliary have positive interrogative definite abstract","NODATA","You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:","have_got","Have you got that job at the paper still?",1
-58,"auxiliary have positive interrogative definite abstract","NODATA","You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:","do_have","Do you have that job at the paper still?",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent_got","Sorry, we haven't got any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent","Sorry, we haven't any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we don't have any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent_got","Sorry, we haven't got no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent","Sorry, we haven't no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we don't have no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent","Sorry, we have no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we've not got any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we've not got no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we don't got no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we don't got any cheese.",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","do_have","Do we have any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have","Have we any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have_got","Have we got any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","Do we got any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","We got any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","We have any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don't we have no cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","havent_got","Haven’t we got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","havent","Haven’t we any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","have_no","Have we no cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","have_not_got","Have we not got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Have we not got no cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","dont_have","Don’t we have any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don’t we got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don’t we got no cheese?",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_BATH_TRAP","The same as 'last' and 'bath' (and different from 'trap'). ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_PALM_BATH_TRAP","The same as 'palm' (and different from both 'bath' and 'trap').   ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_TRAP","The same as both 'bath' and 'trap'. ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_CLOTH_LOT","The same as 'cloth' (and different from 'lot'). ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_LOT","The same as 'lot'. ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_FACE","The same as 'face'. ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_DRESS","The same as 'dress'. ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_SQUARE","The same as 'square'. ",1
-62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_KIT","The same as 'kit'. ",1
-63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","tl","With a 't' sound as in 'tap', followed by an 'l'.",1
-63,"kl_tl","kl_tl_kde","How do you pronounce the first consonant of 'clap'?","kl","With a 'k' sound as in 'cap', followed by an 'l'.",1
-64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","after_Ving","I'm after buying some towels.",1
-64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","looking_to_V","I'm looking to buy some towels.",1
-64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","want_to_V","I want to buy some towels.",1
-64,"after_volitional","NODATA","You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:","wanting_to_V","I'm wanting to buy some towels.",1
-65,"after_np","NODATA","You ask your neighbour if they know a good decorator. When they say 'Why are you asking?', how do you reply?","looking_for_N","I'm looking for someone to paint the kitchen.",1
-65,"after_np","NODATA","You ask your neighbour if they know a good decorator. When they say 'Why are you asking?', how do you reply?","after_N","I'm after someone to paint the kitchen.",1
-66,"inside_of","inside_of_kde","Describing arriving at a rather chilly office, could you say:","inside","It was even colder inside the building.",1
-66,"inside_of","inside_of_kde","Describing arriving at a rather chilly office, could you say:","inside_of","It was even colder inside of the building. ",1
-67,"outside_of","outside_of_kde","Describing a chance meeting with an old friend, could you say:","outside","I saw him outside the pub.",1
-67,"outside_of","outside_of_kde","Describing a chance meeting with an old friend, could you say:","outside_of","I saw him outside of the pub.",1
-68,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","that","I like that it's easy to use. ",1
-68,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","the_fact_that","I like the fact that it's easy to use. ",1
-68,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","it_being","I like it being easy to use. ",1
-68,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","it_being","I like its being easy to use. ",1
-68,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","how","I like how it's easy to use.",1
-69,"why_for","why_for_kde","You're surprised by something that you've just heard a friend did yesterday. Could you say: ","why","Why did he do that?",1
-69,"why_for","why_for_kde","You're surprised by something that you've just heard a friend did yesterday. Could you say: ","why_for_discontinuous","Why did he do that for?",1
-69,"why_for","why_for_kde","You're surprised by something that you've just heard a friend did yesterday. Could you say: ","why_for_continuous","Why for did he do that?",1
-69,"why_for","why_for_kde","You're surprised by something that you've just heard a friend did yesterday. Could you say: ","what_for","What did he do that for?",1
-70,"quotatives","quotatives_kde","How could you tell a friend about something you'd said earlier?","was_like","I was like '...'",1
-70,"quotatives","quotatives_kde","How could you tell a friend about something you'd said earlier?","said","I said '...'",1
-70,"quotatives","quotatives_kde","How could you tell a friend about something you'd said earlier?","went","I went '...'",1
-70,"quotatives","quotatives_kde","How could you tell a friend about something you'd said earlier?","this_is","This is me '...'",1
-74,"do_preterite","do_preterite_our_dialects_kde","A friend reminds you that you promised to send them something, but you put it in the post yesterday.","done","I done it yesterday.",1
-74,"do_preterite","do_preterite_our_dialects_kde","A friend reminds you that you promised to send them something, but you put it in the post yesterday.","did","I did it yesterday.",1
-75,"drink_preterite","drink_preterite_kde","What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>","drunk","drunk",1
-75,"drink_preterite","drink_preterite_kde","What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>","drank","drank",1
-76,"drink_preterite_participle","drink_preterite_participle_kde","What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'","drunk","drunk",1
-76,"drink_preterite_participle","drink_preterite_participle_kde","What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'","drank","drank",1
-77,"go_preterite_participle","go_preterite_participle_kde","What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'","gone","gone",1
-77,"go_preterite_participle","go_preterite_participle_kde","What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'","went","went",1
-78,"go_preterite_participle_modal","go_preterite_participle_kde","Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.'","gone","gone",1
-78,"go_preterite_participle_modal","go_preterite_participle_kde","Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.'","went","went",1
-79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","adj_fuck_off","a big fuck-off car",1
-79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","fuck_off_adj","a fuck-off big car",1
-79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","fuck_off_alone","a fuck-off car",1
-79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","none","none of these",1
-80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","adj_fuck_off","a black fuck-off rat",1
-80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","fuck_off_adj","a fuck-off black rat",1
-80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","fuck_off_alone","a fuck-off rat",1
-80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","none","none of these",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","plimsolls","plimsolls",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","plimmies","plimmies",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","daps","daps",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","dappers","dappers",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","pumps","pumps",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","runners","runners",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","rubbers","rubbers",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","sand-shoes","sand-shoes",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","sandies","sandies",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","sannies","sannies",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","gym-shoes","gym-shoes",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","gymmies","gymmies",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","gutties","gutties",1
-81,"daps_plimsolls","daps_plimsolls_kde","What do you call the black, slip-on shoes often worn by children in school or for PE?","guddies","guddies",1
-82,"forget_ppt","forget_ppt_kde","What word would you use in a sentence like this: 'I had _____ all about that.'","forgotten","forgotten",1
-82,"forget_ppt","forget_ppt_kde","What word would you use in a sentence like this: 'I had _____ all about that.'","forgot","forgot",1
-82,"forget_ppt","forget_ppt_kde","What word would you use in a sentence like this: 'I had _____ all about that.'","forget","forget",1
-82,"forget_ppt","forget_ppt_kde","What word would you use in a sentence like this: 'I had _____ all about that.'","forgetten","forgetten",1
-83,"flu_shot","flu_shot_kde","What informal word would you use for an injection of a flu vaccination?","jab","flu jab",1
-83,"flu_shot","flu_shot_kde","What informal word would you use for an injection of a flu vaccination?","jag","flu jag",1
-83,"flu_shot","flu_shot_kde","What informal word would you use for an injection of a flu vaccination?","shot","flu shot",1
->>>>>>> e267c3b4f0b29df33ed8fa8bbff6b2e6d38649be
+=======,,,,,,
+question,question_name,dataset,question_text,variant,variant_text,weight
+1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,preposition_drop_no_determiner,Let’s go pub.,1
+1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,preposition_retained,Let’s go to the pub. ,1
+1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,preposition_drop_determiner,Let’s go the pub. ,1
+1,preposition drop,preposition_drop_kde86,You’re suggesting to friends that it’s time for a drink. ,NODATA,Let’s go t’pub. ,1
+2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_drop_no_determiner,Let’s go straight pub.,1
+2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_retained,Let’s go straight to the pub.,1
+2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",preposition_drop_determiner,Let’s go straight the pub.,1
+2,preposition drop (modifier),preposition_drop_modifier_kde32,"A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:",NODATA,Let’s go straight t' pub.,1
+3,should of vs. should have,should_of_kde,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_have,You really should have.,1
+3,should of vs. should have,should_of_kde,"If someone told you they hadn't put on sun-tan lotion on a very sunny day, would you say:",should_of,You really should of.,1
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,amnt,"I’m right, amn’t I?",1
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,arent,"I’m right, aren’t I?",1
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,int,"I’m right, in’t I?",1
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,aint,"I’m right, ain’t I? ",1
+4,amn’t vs. aren’t in tags,amnt_arent_kde42,Which of these might you end an argument by saying?,ent,"I’m right, en’t I? ",1
+5,off of,off_of_kde426,You're cross with the dog for lying on the bed again. Could you say:,off_of,Get off of it!,1
+5,off of,off_of_kde426,You're cross with the dog for lying on the bed again. Could you say:,off,Get off it!,1
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her it tomorrow.,1
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to her tomorrow. ,1
+6,dative alternation,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it her tomorrow.,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x,Where is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_is_x_at,Where’s it at?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_to_is_x,Where to is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_to,Where’s it to?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_about,Where’s it about?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_about_x,Where about is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_abouts_x,Where abouts is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_at_x,Where at is it?,1
+7,location questions,location_questions_kde,"If a friend asked to meet you at a restaurant you didn’t know, would you say:",where_x_abouts,Where's it abouts?,1
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_Xing,Her hard work deserves rewarding.,1
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_Xed,Her hard work deserves rewarded.,1
+8,X needs washed (deserve),needs_washed_deserve_kde58,"Discussing a brilliant but unrecognised friend, would you say:",needs_to_be_Xed,Her hard work deserves to be rewarded.,1
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs_Xing,My hair needs washing.,1
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs_Xed,My hair needs washed.,1
+9,X needs washed (need),needs_washed_need_kde119,"If you noticed that your hair was getting greasy, would you say:",needs_to_be_Xed,My hair needs to be washed.,1
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y_needs_X_Ved,She needs her car fixed.,1
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y_needs_X_Ving,She needs her car fixing.,1
+10,Y needs X washing,needs_x_washing_kde32,"If your friend was stranded because her car had broken down, would you say:",Y_needs_X_to_be_Ved,She needs her car to be fixed.,1
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xed,The fence wants painted. ,1
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xing,The fence wants painting.,1
+11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",control,I wouldn’t say either of these.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde131,"Describing a home-made cake, would you say: ",himself,He made it himself.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde132,"Describing a home-made cake, would you say: ",himsel,He made it himsel.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde133,"Describing a home-made cake, would you say: ",hisself,He made it hisself.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde134,"Describing a home-made cake, would you say: ",hissel,He made it hissel.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde136,"Describing a home-made cake, would you say: ",himsen,He made it himsen.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde137,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle_were,I were sat there forever.,1
+13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle_were,I were sitting there forever.,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?,past_participle,You were stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?,present_participle,You were standing right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?,past_participle_was,You was stood right next to me. ,1
+14,was standing vs. was stood (stand),was_stood_stand_kde,You spotted a friend at a crowded concert but they didn't notice you. How might you tell them about it?,present_participle_was,You was standing right next to me. ,1
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective,"No thanks, I’m after having one.",1
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",after_perfective_with_modifier,"No thanks, I'm just after having one.",1
+15,after perfective,after_perfective_kde171,"You drink a cup of tea, and then someone offers you another one. How do you refuse?",control,"No thanks, I’ve just had one.",1
+16,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,doubled,"If I'd've known you were coming, I'd have made more food.",1
+16,auxiliary doubling,aux_doubling_kde80,A friend arrives just as you're sitting down for a meal. Would you say:,control,"If I'd known you were coming, I'd have made more food.",1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dont,I don’t feel very well.,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinnae,I dinnae/dinnie/dinny feel very well.,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinna,I dinna feel very well. ,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",divnt,I divn’t/diven’t/divin’t feel very well.,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",divnae,I divnae/divnie/divny feel very well. ,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",divna,I divna feel very well. ,1
+17,doesn't vs. doesnae vs. divn't,doesnt_doesnae_kde228,"If you were feeling ill, would you say: ",dinnit,I dinnit feel very well. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have,I don’t have any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent,I haven’t any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got,I haven't got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_any,I don't got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_got_none,I don't got none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",have_none,I have none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",got_none,I got none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_any,I've not got any.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",not_got_none,I've not got none. ,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",dont_have_negc,I don't have none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_negc,I haven't none.,1
+18,do support in neg decl,do_support_indef_negative_kde,"Someone asks you to lend them some money, but you didn’t bring any. What do you say?",havent_got_negc,I haven't got none. ,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",dont_have,Don't you have the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",have_not_got,Have you not got the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",do_not_have,Do you not have the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent_got,Haven't you got the car today?,1
+19,auxiliary have negative interrogative definite concrete,do_support_interrogative_negative_concrete_kde,"Your friend often borrows her parents' car, but says that she can't give you a lift today. Could you say:",havent,Haven't you the car today?,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,dead,It's dead good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,bare,It's bare good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,pretty,It's pretty good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,proper,It's proper good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,real,It's real good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,rather,It's rather good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,pure,It's pure good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,so,It's so good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,very,It's very good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,well,It's well good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,wicked,It's wicked good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,wild,It's wild good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,really,It's really good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,awful,It's awful good.,1
+20,adjective intensifiers,intensifiers_adjectival_kde,You're complimenting a meal. Would you say:,right,It's right good.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_rake_of,I saw a rake of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,bare,I saw bare people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_load_of,I saw a load of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,lots_of,I saw lots of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,a_lot_of,I saw a lot of people there.,1
+21,quantifier,bare_people_kde,You're describing a trip to a crowded shop. Could you say:,loads_of,I saw loads of people there.,1
+22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,wanting,I'm wanting a new shirt.,1
+22,want_wanting,want_wanting_kde378,A friend asks you what you're thinking about buying for yourself. Could you say:,want,I want a new shirt.,1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,innit,"That's our bus, innit?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,ent,"That's our bus, en't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,isnt,"That's our bus, isn't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,int,"That's our bus, in't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,arent,"That's our bus, aren't it?",1
+23,isnt_innit,isnt_innit_kde100,You're heading into town with a friend. Could you say:,aint,"That's our bus, ain't it?",1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,past_participle,I was just headed home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,present_participle,I was just heading home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,past_participle_were,I were just headed home.,1
+24,headed_heading,headed_kde,You bump into a friend on the street and he asks you what you're up to. ,present_participle_were,I were just heading home.,1
+25,down the pub vs. at vs. in,down_the_pub_kde,"If you were going to watch the football with some friends, which of these could you use to describe where you were going?",at,I'm watching it at the pub.,1
+25,down the pub vs. at vs. in,down_the_pub_kde,"If you were going to watch the football with some friends, which of these could you use to describe where you were going?",in,I'm watching it in the pub.,1
+25,down the pub vs. at vs. in,down_the_pub_kde,"If you were going to watch the football with some friends, which of these could you use to describe where you were going?",down,I'm watching it down the pub.,1
+26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,tw,"With a 'tw' sound, like in 'twin'.",1
+26,kw_tw,kw_tw_kde,How do you pronounce the first two letters of 'quilt'?,kw,"With a 'kw' sound, like in 'quiver'.",1
+27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,merger,"Yes, they are identical.",1
+27,card_cord_merger,card_cord_merger_kde,Does 'card' sound the same as 'cord' when you pronounce them in casual conversation?,no_merger,"No, they sound different.",1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,w,Just like 'wail'.,1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,kw,Just like 'quail'.,1
+28,wh,wh_kde,How do you pronounce the word 'whale'?,hw,Differently to both 'quail' and 'wail'.,1
+29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,NODATA,I'll run t'shop.,1
+29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_retained,I'll run to the shop.,1
+29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_drop_determiner,I'll run the shop.,1
+29,preposition drop_run,preposition_drop_kde86,You're offering to pick something up from the local shop in a hurry. Could you say:,preposition_drop_no_determiner,I'll run shop.,1
+30,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give the book to her tomorrow. ,1
+30,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her the book tomorrow.,1
+30,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give the book her tomorrow.,1
+31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give it to Jane tomorrow. ,1
+31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give it Jane tomorrow.,1
+31,dative alternation_full_noun_IO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give Jane it tomorrow.,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde131,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himself,himself,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,himseln,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde133,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hisself,hisself,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hisseln,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde137,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hissen,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde134,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hissel,hissel,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde136,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsen,himsen,1
+32,3sgm. ref. pro. first & second element_object,reflexives_kde132,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsel,himsel,1
+33,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",dont_have,I don't have it.,1
+33,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent_got,I haven't got it.,1
+33,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent,I haven’t it.,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesen,mesen,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',maself,maself,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesel,mesel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',meself,meself,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',meseln,meseln,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mesels,mesels,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysel,mysel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',myseln,myseln,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysels,mysels,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',mysen,mysen,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',masel,masel,1
+34,1sg_reflexive_pronoun,1sg_reflexive_pronoun_kde,How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.',myself,myself,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursen,oursen,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursens,oursens,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',us,us,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussel,ussel,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usself,usself,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usselfs,usselfs,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussen,ussen,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',usselves,usselves,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussels,ussels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',weselves,weselves,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',wesels,wesels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ussens,ussens,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursel,oursel,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourself,ourself,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselfs,ourselfs,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourseln,ourseln,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselns,ourselns,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',oursels,oursels,1
+35,1pl_reflexive_pronoun,1pl_reflexive_pronoun_kde,How would you complete this sentence: 'We often don't see ___ as others see us.',ourselves,ourselves,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursels,yoursels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesel,theesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselve,yourselve,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yeself,yeself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursel,yoursel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yoursen,yoursen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselves,yourselves,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselfs,yourselfs,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourself,yourself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourseln,yourseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',you,you,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yourselt,yourselt,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?','ee,'ee,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',deesel,deesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasel,thasel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thaself,thaself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thaseln,thaseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasels,thasels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thasen,thasen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',yesel,yesel,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theeself,theeself,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theeseln,theeseln,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesels,theesels,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',theesen,theesen,1
+36,2sg_reflexive_pronoun,2sg_reflexive_pronoun_kde,How would you complete this sentence if speaking to one person: 'Can you see ___ in the photo?',thysen,thysen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursels,yoursels,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',deesel,deesel,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',theesen,theesen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yous,yous,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursel,yoursel,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourselfs,yourselfs,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursen,yoursen,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yoursens,yoursens,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourselves,yourselves,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',you,you,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?',yourself,yourself,1
+37,2pl_reflexive_pronoun,2pl_reflexive_pronoun_kde,How would you complete the sentence if speaking to multiple people: 'Can you see ___ in the photo?','ee,'ee,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herseln,herseln,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herselve,herselve,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',her,her,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersen,hersen,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',herself,herself,1
+38,3sgf_reflexive_pronoun,3sgf_reflexive_pronoun_kde,How would you complete this sentence: 'I hope she's careful and doesn't slip and hurt ___.',hersel,hersel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',avoid,"I would avoid using a 'they' in a context like this and would say 'he or she', or something similar",1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsels,themsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselves,themselves,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsen,themsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsels,emsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselfs,themselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themself,themself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsen,theirsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsel,themsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',them,them,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsens,theirsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theysen,theysen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',hersen,hersen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themselns,themselns,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',demsel,demsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',demsels,demsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsel,emsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emself,emself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',themsens,themsens,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',emsen,emsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',hersel,hersel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',himself,himself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',himsen,himsen,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsel,theirsel,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirself,theirself,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirselfs,theirselfs,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirseln,theirseln,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirsels,theirsels,1
+39,3sgna_reflexive_pronoun,3sgna_reflexive_pronoun_kde,A stranger runs into you in the street when you're looking the other direction—you don't see who it was. How would you complete the sentence? 'They'll injure ______ if they keep rushing like that!',theirselves,theirselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsels,themsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsen,theirsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsens,theirsens,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",them,them,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsel,themsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themself,themself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselfs,themselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselns,themselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themseln,themseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsens,themsens,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themselves,themselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",themsen,themsen,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",avoid,I would avoid using 'they'/'them' pronouns in this situation,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",demsel,demsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",demsels,demsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emsel,emsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emself,emself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",emselves,emselves,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsel,theirsel,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirself,theirself,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselfs,theirselfs,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirseln,theirseln,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselns,theirselns,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirsels,theirsels,1
+40,3sgnb_reflexive_pronoun,3sgnb_reflexive_pronoun_kde,"You are introduced to Charlie, who asks to be referred to with 'they'/'them' pronouns instead of 'he'/'him' or 'she'/'her'. How would you complete this sentence? 'They seem very sure of _____.'",theirselves,theirselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emselves,emselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirseln,theirseln,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsens,themsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emselfs,emselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselfs,themselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theysens,theysens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theyselves,theyselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselns,themselns,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themseln,themseln,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsels,themsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themself,themself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsel,theirsel,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emself,emself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsen,themsen,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emsels,emsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themsel,themsel,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',emsens,emsens,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',themselves,themselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirself,theirself,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselfs,theirselfs,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',them,them,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselns,theirselns,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsels,theirsels,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirselves,theirselves,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsen,theirsen,1
+41,3pl_reflexive_pronoun,3pl_reflexive_pronoun_kde,How would you complete this sentence: 'It takes them all so long to get ___ ready in the morning.',theirsens,theirsens,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",'ee,'ee,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",du,du,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",tha,"tha, ta",1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",thee,thee,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",thou,"thou, thoo",1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",ye,ye,1
+42,2sg_subject_pronoun,2sg_subject_pronoun_kde,"What word would you use in a sentence like this, if talking to one friend: '___ can't be serious!'",you,you,1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",what,what,1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",that,that,1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",(no_word),(no word),1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",who,who,1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",which,which,1
+43,animate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'Is that the person ____ you met?'",whom,whom,1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",(no_word),whom,1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",(no_word),(no word),1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",that,that,1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",what,what,1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",which,which,1
+44,inanimate_object_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ I want.'",who,who,1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",whom,whom,1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",what,what,1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",(no_word),(no word),1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",which,which,1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",that,that,1
+45,animate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend—____ I met years ago—is coming over tonight.'",who,who,1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",(no_word),(no word),1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",that,that,1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",what,what,1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",who,who,1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",whom,whom,1
+46,inanimate_object_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ I don't think you'll guess—is much better.'",which,which,1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",that,that,1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",who,who,1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",what,what,1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",which,which,1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",(no_word),(no word),1
+47,animate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'This is the person _____ met you at the airport yesterday.'",whom,whom,1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",what,what,1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",whom,whom,1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",that,that,1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",(no_word),(no word),1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",who,who,1
+48,inanimate_subject_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'That car's the one ____ really caught my eye.'",which,which,1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",who,who,1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",whom,whom,1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",that,that,1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",(no_word),(no word),1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",what,what,1
+49,animate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My friend— ____ met you from the airport last week—is coming over tonight.'",which,which,1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",who,who,1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",whom,whom,1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",that,that,1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",(no_word),(no word),1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",what,what,1
+50,inanimate_subject_non_restrictive_relative,NODATA,"What word would you use in the gap in a sentence like this, if talking to a friend: 'My idea—____ will blow your mind—is much better.'",which,which,1
+51,promise_control,NODATA,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",no_promise_control,But I promised him (that) I'd go.,1
+51,promise_control,NODATA,"If you'd made a promise to your brother that you would go to his party but your friend asked you not to go, would you say:",promise_control,But I promised him to go.,1
+52,non_quantificatory_never,NODATA,"Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:",never,My son never broke your window.,1
+52,non_quantificatory_never,NODATA,"Your neighbour accuses your son of breaking a window, but he was at school all day. Might you say:",not,My son didn't break your window.,1
+53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,not,You mean she didn't come home all night?,1
+53,window_quantificatory_never,NODATA,You want to check whether a friend was out very late or didn't come home at all. Might you say:,never,You mean she never came home all night?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",dont_have,Don't you have that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",have_not_got,Have you not got that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",havent_got,Haven't you got that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",havent,Haven't you that job at the supermarket?,1
+54,auxiliary have negative interrogative definite abstract,NODATA,"The last you'd heard your friend was working at a supermarket, but she now says she's unemployed. Would you say:",do_not_have,Do you not have that job at the supermarket?,1
+55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent_got,"Sorry, I haven't got the car at the moment.",1
+55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",havent,"Sorry, I haven't the car at the moment.",1
+55,auxiliary have negative indicative definite concrete,NODATA,"Your friend asks you for a lift, but your car is at the garage. Would you say:",dont_have,"Sorry, I don't have the car at the moment.",1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,do_have,Do you have the car this weekend?,1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,have_got,Have you got the car this weekend?,1
+56,auxiliary have positive interrogative definite concrete,NODATA,You are angling for a lift from a friend who shares a car with her partner. Might you ask:,have,Have you the car this weekend?,1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I've not got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I don't got that job any more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't got that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I haven't got that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent,"Sorry, I haven't that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",dont_have,"Sorry, I don't have that job no more.",1
+57,auxiliary have negative indicative definite abstract,NODATA,"Your friend asks to use your employee discount, but you've moved on to a different job. Might you say:",havent_got,"Sorry, I've not got that job no more.",1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have,Have you that job at the paper still?,1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,have_got,Have you got that job at the paper still?,1
+58,auxiliary have positive interrogative definite abstract,NODATA,You're catching up with a friend who used to work at the local paper but who you haven't seen for a long time. Would you ask:,do_have,Do you have that job at the paper still?,1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent_got,"Sorry, we haven't got any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we haven't any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't have any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent_got,"Sorry, we haven't got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we haven't no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't have no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",havent,"Sorry, we have no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we've not got any cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we've not got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't got no cheese.",1
+59,auxiliary have negative indicative any,NODATA,"You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:",dont_have,"Sorry, we don't got any cheese.",1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,do_have,Do we have any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have,Have we any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,have_got,Have we got any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,Do we got any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,We got any cheese?,1
+60,auxiliary have positive interrogative any,NODATA,You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:,NODATA,We have any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don't we have no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",havent_got,Haven’t we got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",havent,Haven’t we any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",have_no,Have we no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",have_not_got,Have we not got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Have we not got no cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",dont_have,Don’t we have any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got any cheese?,1
+61,auxiliary have negative interrogative any,do_support_interrogative_kde,"You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:",NODATA,Don’t we got no cheese?,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_BATH_TRAP,The same as 'last' and 'bath' (and different from 'trap'). ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_PALM_BATH_TRAP,The same as 'palm' (and different from both 'bath' and 'trap').   ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_TRAP,The same as both 'bath' and 'trap'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_CLOTH_LOT,The same as 'cloth' (and different from 'lot'). ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_LOT,The same as 'lot'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_FACE,The same as 'face'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_DRESS,The same as 'dress'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_SQUARE,The same as 'square'. ,1
+62,father_vowel,father_vowel_kde,How do you pronounce the vowel in the first syllable of 'father'?,FATHER_KIT,The same as 'kit'. ,1
+63,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,tl,"With a 't' sound as in 'tap', followed by an 'l'.",1
+63,kl_tl,kl_tl_kde,How do you pronounce the first consonant of 'clap'?,kl,"With a 'k' sound as in 'cap', followed by an 'l'.",1
+64,after_volitional,NODATA,You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:,after_Ving,I'm after buying some towels.,1
+64,after_volitional,NODATA,You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:,looking_to_V,I'm looking to buy some towels.,1
+64,after_volitional,NODATA,You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:,want_to_V,I want to buy some towels.,1
+64,after_volitional,NODATA,You go into a shop to buy some towels when the shop assistant asks if you need any help. Would you say:,wanting_to_V,I'm wanting to buy some towels.,1
+65,after_np,NODATA,"You ask your neighbour if they know a good decorator. When they say 'Why are you asking?', how do you reply?",looking_for_N,I'm looking for someone to paint the kitchen.,1
+65,after_np,NODATA,"You ask your neighbour if they know a good decorator. When they say 'Why are you asking?', how do you reply?",after_N,I'm after someone to paint the kitchen.,1
+66,inside_of,inside_of_kde,"Describing arriving at a rather chilly office, could you say:",inside,It was even colder inside the building.,1
+66,inside_of,inside_of_kde,"Describing arriving at a rather chilly office, could you say:",inside_of,It was even colder inside of the building. ,1
+67,outside_of,outside_of_kde,"Describing a chance meeting with an old friend, could you say:",outside,I saw him outside the pub.,1
+67,outside_of,outside_of_kde,"Describing a chance meeting with an old friend, could you say:",outside_of,I saw him outside of the pub.,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,that,I like that it's easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,the_fact_that,I like the fact that it's easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like it being easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,it_being,I like its being easy to use. ,1
+68,like_that,like_that_kde,You're recommending an app that you like to a friend. Could you say:,how,I like how it's easy to use.,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why,Why did he do that?,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_discontinuous,Why did he do that for?,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,why_for_continuous,Why for did he do that?,1
+69,why_for,why_for_kde,You're surprised by something that you've just heard a friend did yesterday. Could you say: ,what_for,What did he do that for?,1
+70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,was_like,I was like '...',1
+70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,said,I said '...',1
+70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,went,I went '...',1
+70,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,this_is,This is me '...',1
+74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",done,I done it yesterday.,1
+74,do_preterite,do_preterite_our_dialects_kde,"A friend reminds you that you promised to send them something, but you put it in the post yesterday.",did,I did it yesterday.,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>",drunk,drunk,1
+75,drink_preterite,drink_preterite_kde,"What word would you use in a sentence like this, if talking to one friend: 'I ____ a bottle of water earlier but I'm still thirsty.' <br><i>Please choose all answers that apply.</i>",drank,drank,1
+76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drunk,drunk,1
+76,drink_preterite_participle,drink_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'Have you _____ enough water?'",drank,drank,1
+77,go_preterite_participle,go_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'",gone,gone,1
+77,go_preterite_participle,go_preterite_participle_kde,"What word would you use in a sentence like this, if talking to one friend: 'They've ____ out already.'",went,went,1
+78,go_preterite_participle_modal,go_preterite_participle_kde,Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.',gone,gone,1
+78,go_preterite_participle_modal,go_preterite_participle_kde,Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.',went,went,1
+79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",adj_fuck_off,a big fuck-off car,1
+79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",fuck_off_adj,a fuck-off big car,1
+79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",fuck_off_alone,a fuck-off car,1
+79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",none,none of these,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",adj_fuck_off,a black fuck-off rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck_off_adj,a fuck-off black rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck_off_alone,a fuck-off rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",none,none of these,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",plimsolls,plimsolls,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",plimmies,plimmies,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",daps,daps,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",dappers,dappers,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",pumps,pumps,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",runners,runners,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",rubbers,rubbers,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",sand-shoes,sand-shoes,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",sandies,sandies,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",sannies,sannies,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",gym-shoes,gym-shoes,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",gymmies,gymmies,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",gutties,gutties,1
+81,daps_plimsolls,daps_plimsolls_kde,"What do you call the black, slip-on shoes often worn by children in school or for PE?",guddies,guddies,1
+82,forget_ppt,forget_ppt_kde,What word would you use in a sentence like this: 'I had _____ all about that.',forgotten,forgotten,1
+82,forget_ppt,forget_ppt_kde,What word would you use in a sentence like this: 'I had _____ all about that.',forgot,forgot,1
+82,forget_ppt,forget_ppt_kde,What word would you use in a sentence like this: 'I had _____ all about that.',forget,forget,1
+82,forget_ppt,forget_ppt_kde,What word would you use in a sentence like this: 'I had _____ all about that.',forgetten,forgetten,1
+83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jab,flu jab,1
+83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,jag,flu jag,1
+83,flu_shot,flu_shot_kde,What informal word would you use for an injection of a flu vaccination?,shot,flu shot,1
