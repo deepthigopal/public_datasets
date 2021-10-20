@@ -136,9 +136,9 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 28,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,went,I went '...',1
 28,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,this_is,This is me '...',1
 28,quotatives,quotatives_kde,How could you tell a friend about something you'd said earlier?,said,I said '...',1
-29,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent_got,I haven't got it.,1
-29,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent,I haven’t it.,1
-29,do support in neg decl,do_support_indef_negative_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",dont_have,I don't have it.,1
+29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent_got,I haven't got it.,1
+29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent,I haven’t it.,1
+29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",dont_have,I don't have it.,1
 30,3sgm. ref. pro. first & second element_object,reflexives_kde132,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsel,himsel,1
 30,3sgm. ref. pro. first & second element_object,reflexives_kde134,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hissel,hissel,1
 30,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hisseln,1
