@@ -467,9 +467,9 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",fuck_off_adj,a fuck-off big car,1
 79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",fuck_off,a fuck-off car,1
 79,fuck_off_size_adj,fuck_off_kde,"Describing an intimidatingly large car, would you say:",NODATA,none of these,1
-80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",adj_fuck-off,a black fuck-off rat,1
-80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck-off_adj,a fuck-off black rat,1
-80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck-off_alone,a fuck-off rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",adj_fuck_off,a black fuck-off rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck_off_adj,a fuck-off black rat,1
+80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",fuck_off,a fuck-off rat,1
 80,fuck_off_other_adj,fuck_off_kde,"Describing a very large, black rat, would you say:",NODATA,none of these,1
 81,daps_plimsolls,daps_plimsolls_kde,What do you call the canvas shoes often worn by children in school or for PE?,plimsolls,plimsolls,1
 81,daps_plimsolls,daps_plimsolls_kde,What do you call the canvas shoes often worn by children in school or for PE?,plimmies,plimmies,1
