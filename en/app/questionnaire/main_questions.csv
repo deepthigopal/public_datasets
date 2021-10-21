@@ -139,14 +139,14 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent_got,I haven't got it.,1
 29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",havent,I haven’t it.,1
 29,do support in neg decl,do_support_negative_indefinite_kde,"At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:",dont_have,I don't have it.,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde132,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsel,himsel,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde134,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hissel,hissel,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hisseln,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde136,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsen,himsen,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde137,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hissen,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde138,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,himseln,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde133,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hisself,hisself,1
-30,3sgm. ref. pro. first & second element_object,reflexives_kde131,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himself,himself,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsel,himsel,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hissel,hissel,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hisseln,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himsen,himsen,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,hissen,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',NODATA,himseln,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',hisself,hisself,1
+30,3sgm. ref. pro. first & second element_object,reflexives_kde,Fill in the gap in this sentence: 'He can see ___ in the mirror.',himself,himself,1
 31,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",prepositional_dative,I’ll give the book to her tomorrow. ,1
 31,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",theme_goal_ditransitive,I’ll give the book her tomorrow.,1
 31,dative alternation_full_noun_DO,double_object_pronominal_objects_kde34,"If you were planning to return a book you had borrowed, would you say:",goal_theme_ditransitive,I’ll give her the book tomorrow.,1
