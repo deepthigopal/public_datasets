@@ -42,14 +42,14 @@ question,question_name,dataset,question_text,variant,variant_text,weight
 11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",control,I wouldn’t say either of these.,1
 11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xing,The fence wants painting.,1
 11,X needs washed (want),needs_washed_want_kde73,"You notice that the paint is flaking off your fence, would you say: ",needs_Xed,The fence wants painted. ,1
-12,3sgm. ref. pro. first & second element,reflexives_kde131,"Describing a home-made cake, would you say: ",himself,He made it himself.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde134,"Describing a home-made cake, would you say: ",hissel,He made it hissel.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde136,"Describing a home-made cake, would you say: ",himsen,He made it himsen.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde137,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde133,"Describing a home-made cake, would you say: ",hisself,He made it hisself.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde132,"Describing a home-made cake, would you say: ",himsel,He made it himsel.,1
-12,3sgm. ref. pro. first & second element,reflexives_kde138,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",himself,He made it himself.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",hissel,He made it hissel.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",himsen,He made it himsen.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",NODATA,He made it hissen.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",NODATA,He made it hisseln.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",hisself,He made it hisself.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",himsel,He made it himsel.,1
+12,3sgm. ref. pro. first & second element,reflexives_kde,"Describing a home-made cake, would you say: ",NODATA,He made it himseln.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,present_participle,I was sitting there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle,I was sat there forever.,1
 13,was standing vs. was stood (sit),was_stood_sit_kde,How would you describe waiting too long at the dentist’s?,past_participle_were,I were sat there forever.,1
