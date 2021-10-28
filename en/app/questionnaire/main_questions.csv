@@ -2,11 +2,11 @@
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_no_determiner","Let’s go pub.",1
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_retained","Let’s go to the pub. ",1
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_determiner","Let’s go the pub. ",1
-1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_reduced_determiner","Let’s go t’pub. ",1
+1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","NODATA","Let’s go t’pub. ",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_no_determiner","Let’s go straight pub.",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_retained","Let’s go straight to the pub.",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_determiner","Let’s go straight the pub.",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_reduced_determiner","Let’s go straight t' pub.",1
+2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","NODATA","Let’s go straight t' pub.",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","it_being","I like it being easy to use. ",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","that","I like that it's easy to use. ",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","how","I like how it's easy to use.",1
@@ -45,11 +45,11 @@
 12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","himself","He made it himself.",1
 12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","hissel","He made it hissel.",1
 12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","himsen","He made it himsen.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","hissen","He made it hissen.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","hisseln","He made it hisseln.",1
+12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","NODATA","He made it hissen.",1
+12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","NODATA","He made it hisseln.",1
 12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","hisself","He made it hisself.",1
 12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","himsel","He made it himsel.",1
-12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","himseln","He made it himseln.",1
+12,"3sgm. ref. pro. first & second element","reflexives_kde","Describing a home-made cake, would you say: ","NODATA","He made it himseln.",1
 13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","present_participle","I was sitting there forever.",1
 13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","past_participle","I was sat there forever.",1
 13,"was standing vs. was stood (sit)","was_stood_sit_kde","How would you describe waiting too long at the dentist’s?","past_participle_were","I were sat there forever.",1
@@ -141,10 +141,10 @@
 29,"do support in neg decl","do_support_negative_indefinite_kde","At a picnic, your friend asks you where the bottle opener is, but you thought they were going to bring it. Could you say:","dont_have","I don't have it.",1
 30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himsel","himsel",1
 30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hissel","hissel",1
-30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hisseln","hisseln",1
+30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","hisseln",1
 30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himsen","himsen",1
-30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hissen","hissen",1
-30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himseln","himseln",1
+30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","hissen",1
+30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","NODATA","himseln",1
 30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","hisself","hisself",1
 30,"3sgm. ref. pro. first & second element_object","reflexives_kde","Fill in the gap in this sentence: 'He can see ___ in the mirror.'","himself","himself",1
 31,"dative alternation_full_noun_DO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","prepositional_dative","I’ll give the book to her tomorrow. ",1
@@ -153,10 +153,10 @@
 32,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","prepositional_dative","I’ll give it to Jane tomorrow. ",1
 32,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","goal_theme_ditransitive","I’ll give Jane it tomorrow.",1
 32,"dative alternation_full_noun_IO","double_object_pronominal_objects_kde34","If you were planning to return a book you had borrowed, would you say:","theme_goal_ditransitive","I’ll give it Jane tomorrow.",1
-33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_retained","I'll run to the shop.",1
-33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner","I'll run the shop.",1
-33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_no_determiner","I'll run shop.",1
-33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_reduced_determiner","I'll run t'shop.",1
+33,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_retained","I'll run to the shop.",1
+33,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner","I'll run the shop.",1
+33,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_no_determiner","I'll run shop.",1
+33,"preposition drop_run","preposition_drop_kde86","You're offering to pick something up from the local shop in a hurry. Could you say:","NODATA","I'll run t'shop.",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysen","mysen",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysels","mysels",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysel","mysel",1
@@ -399,27 +399,27 @@
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","have_not_got","Sorry, we've not got no cheese.",1
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","have_no","Sorry, we have no cheese.",1
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent_got","Sorry, we haven't got no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_got_any","Sorry, we don't got any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","ve_not_got_any","Sorry, we've not got any cheese.",1
+59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","NODATA","Sorry, we don't got any cheese.",1
+59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","NODATA","Sorry, we've not got any cheese.",1
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent_got","Sorry, we haven't got any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent_no","Sorry, we haven't no cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have_no","Sorry, we don't have no cheese.",1
+59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","NODATA","Sorry, we haven't no cheese.",1
+59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","NODATA","Sorry, we don't have no cheese.",1
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","havent","Sorry, we haven't any cheese.",1
 59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_have","Sorry, we don't have any cheese.",1
-59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","dont_got_no","Sorry, we don't got no cheese.",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have_no_inversion","We have any cheese?",1
+59,"auxiliary have negative indicative any","NODATA","You're working in a shop and a customer asks you where the cheese is, but you've run out. Would you say:","NODATA","Sorry, we don't got no cheese.",1
+60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","We have any cheese?",1
 60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","do_have","Do we have any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have_got_aux_drop","We got any cheese?",1
-60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","do_got","Do we got any cheese?",1
+60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","We got any cheese?",1
+60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","NODATA","Do we got any cheese?",1
 60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have","Have we any cheese?",1
 60,"auxiliary have positive interrogative any","NODATA","You're at a picnic and are hopeful that your friend has brought cheese. Might you ask:","have_got","Have we got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","dont_have_no","Don't we have no cheese?",1
+61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don't we have no cheese?",1
 61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","havent","Haven’t we any cheese?",1
 61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","havent_got","Haven’t we got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","dont_got_no","Don’t we got no cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","dont_got_any","Don’t we got any cheese?",1
+61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don’t we got no cheese?",1
+61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Don’t we got any cheese?",1
 61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","have_not_got","Have we not got any cheese?",1
-61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","have_not_got_no","Have we not got no cheese?",1
+61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","NODATA","Have we not got no cheese?",1
 61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","have_no","Have we no cheese?",1
 61,"auxiliary have negative interrogative any","do_support_interrogative_negative_indefinite_any_kde","You're trying to make a cheese sandwich, but all you can find is the bread. Might you say:","dont_have","Don’t we have any cheese?",1
 62,"father_vowel","father_vowel_kde","How do you pronounce the vowel in the first syllable of 'father'?","FATHER_LOT","The same as 'lot'. ",1
@@ -485,10 +485,10 @@
 78,"go_preterite_participle_modal","go_preterite_participle_kde","Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.'","gone","gone",1
 78,"go_preterite_participle_modal","go_preterite_participle_kde","Someone asks why Mary isn't here. What word would you use in a sentence like this: 'She could have ____ home.'","went","went",1
 79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","fuck_off_adj","a fuck-off big car",1
-79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","(none)","none of these",1
+79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","NODATA","none of these",1
 79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","fuck_off","a fuck-off car",1
 79,"fuck_off_size_adj","fuck_off_kde","Describing an intimidatingly large car, would you say:","adj_fuck_off","a big fuck-off car",1
 80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","fuck_off_adj","a fuck-off black rat",1
 80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","adj_fuck_off","a black fuck-off rat",1
-80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","(none)","none of these",1
+80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","NODATA","none of these",1
 80,"fuck_off_other_adj","fuck_off_kde","Describing a very large, black rat, would you say:","fuck_off","a fuck-off rat",1
