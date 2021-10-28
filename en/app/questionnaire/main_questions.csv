@@ -2,11 +2,11 @@
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_no_determiner","Let’s go pub.",1
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_retained","Let’s go to the pub. ",1
 1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_determiner","Let’s go the pub. ",1
-1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_determiner_reduced","Let’s go t’pub. ",1
+1,"preposition drop","preposition_drop_kde","You’re suggesting to friends that it’s time for a drink. ","preposition_drop_reduced_determiner","Let’s go t’pub. ",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_no_determiner","Let’s go straight pub.",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_retained","Let’s go straight to the pub.",1
 2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_determiner","Let’s go straight the pub.",1
-2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_determiner_reduced","Let’s go straight t' pub.",1
+2,"preposition drop (modifier)","preposition_drop_modifier_kde","A friend suggests going out for dinner before drinks, but you'd prefer not to. Would you say:","preposition_drop_reduced_determiner","Let’s go straight t' pub.",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","it_being","I like it being easy to use. ",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","that","I like that it's easy to use. ",1
 3,"like_that","like_that_kde","You're recommending an app that you like to a friend. Could you say:","how","I like how it's easy to use.",1
@@ -156,7 +156,7 @@
 33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_retained","I'll run to the shop.",1
 33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner","I'll run the shop.",1
 33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_no_determiner","I'll run shop.",1
-33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_determiner_reduced","I'll run t'shop.",1
+33,"preposition drop_run","preposition_drop_kde","You're offering to pick something up from the local shop in a hurry. Could you say:","preposition_drop_reduced_determiner","I'll run t'shop.",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysen","mysen",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysels","mysels",1
 34,"1sg_reflexive_pronoun","1sg_reflexive_pronoun_kde","How would you complete this sentence: 'One of the first things I do when I get up in the morning is wash ___.'","mysel","mysel",1
